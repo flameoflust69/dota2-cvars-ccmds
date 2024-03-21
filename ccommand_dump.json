@@ -3249,9 +3249,9 @@
     },
     "dota_fake_accept_match": {
         "description": "",
-        "flags": "devonly, client",
-        "flagsRaw": 10,
-        "hasDefensiveFlag": false,
+        "flags": "devonly, client, hidden",
+        "flagsRaw": 26,
+        "hasDefensiveFlag": true,
         "index": 995
     },
     "dota_fake_limited_purchase_quantity": {
