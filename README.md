@@ -1,8 +1,8 @@
 # Dota2 ConVar and ConCommand dump
 
 ```
-Build version: 6017
-Build info: Mar 21 2024 - 14:35:45PST
+Build version: 6023
+Build info: Apr 03 2024 - 16:43:37PST
 Total ConVar: 4537
 Total ConCommand: 1501
 ```
@@ -58,22 +58,22 @@ enum ConVarFlags_t : int {
 ```c++
 enum ConVarType_t : short
 {
-	CONVAR_TYPE_INVALID = -1,					// Maybe unused
+	CONVAR_TYPE_INVALID = -1,    // Maybe unused
 	CONVAR_TYPE_BOOL,
-	CONVAR_TYPE_INT16,							// Maybe unused
-	CONVAR_TYPE_UINT16,							// Maybe unused
+	CONVAR_TYPE_INT16,           // Maybe unused
+	CONVAR_TYPE_UINT16,          // Maybe unused
 	CONVAR_TYPE_INT32,
 	CONVAR_TYPE_UINT32,
-	CONVAR_TYPE_INT64,							// Maybe unused
+	CONVAR_TYPE_INT64,           // Maybe unused
 	CONVAR_TYPE_UINT64,
 	CONVAR_TYPE_FLOAT,
-	CONVAR_TYPE_DOUBLE,							// Maybe unused
+	CONVAR_TYPE_DOUBLE,          // Maybe unused
 	CONVAR_TYPE_STRING,
 	CONVAR_TYPE_COLOR,
 	CONVAR_TYPE_VECTOR2,
 	CONVAR_TYPE_VECTOR3,
-	CONVAR_TYPE_VECTOR4,						// Maybe unused
-	CONVAR_TYPE_QANGLE,							// Maybe unused
+	CONVAR_TYPE_VECTOR4,         // Maybe unused
+	CONVAR_TYPE_QANGLE,          // Maybe unused
 };
 ```
 

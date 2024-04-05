@@ -33123,9 +33123,9 @@
         "data_type": "bool",
         "default_value": "false",
         "description": "Use legacy vsync mode -- for testing for a couple user machines.",
-        "flags": "devonly",
-        "flagsRaw": 2,
-        "hasDefensiveFlag": false,
+        "flags": "devonly, hidden",
+        "flagsRaw": 18,
+        "hasDefensiveFlag": true,
         "index": 443
     },
     "r_light_flickering_enabled": {
