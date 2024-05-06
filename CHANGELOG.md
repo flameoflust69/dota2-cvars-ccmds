@@ -2,7 +2,8 @@
 
 Select a version below to view the changelog history:
 
-* [2024-04-18, Version 6027](#2024-04-18-version-6027-current) **Current**
+* [2024-05-06, Version 6051](#2024-05-06-version-6051-current) **Current**
+* [2024-04-18, Version 6027](#2024-04-18-version-6027)
 * [2024-04-03, Version 6023](#2024-04-03-version-6023)
 * [2024-03-21, Version 6017](#2024-03-21-version-6017)
 * [2024-03-11, Version 6011](#2024-03-11-version-6011)
@@ -11,8 +12,139 @@ Select a version below to view the changelog history:
 
 ***
 
+## 2024-05-06, Version 6051 (Current)
 
-## 2024-04-18, Version 6027 (Current)
+> [!NOTE]
+> Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/8db15e6>  
+> Blog: https://www.dota2.com/newsentry/4177727597572918930
+
+### ConVar
+* Add `dota_crownfall_collectors_cache_vote_shuffle_enabled`
+```json
+{
+    "data_type": "bool",
+    "default_value": "true",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_experimental_target_filter_is_toggle`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "client, archive, per_user",
+    "flagsRaw": 32904,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_hud_healthbar_local_player_high_visibility`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "client, archive, per_user",
+    "flagsRaw": 32904,
+    "hasDefensiveFlag": false
+}
+```
+
+* Update `dota_hud_healthbar_experimental_local_color_white`
+
+| Field | Old | New |
+| :--- | :--- | :--- |
+| flags | client, archive, per_user | devonly, client |
+| flagsRaw | 32904 | 10 |
+| hasDefensiveFlag | false | true |
+
+### ConCommand
+* Add `+dota_filter_ally`
+```json
+{
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": true
+}
+```
+* Add `+dota_filter_enemy`
+```json
+{
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": true
+}
+```
+* Add `+dota_filter_hero`
+```json
+{
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": true
+}
+```
+* Add `+dota_filter_non_hero`
+```json
+{
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": true
+}
+```
+* Add `-dota_filter_ally`
+```json
+{
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": true
+}
+```
+* Add `-dota_filter_enemy`
+```json
+{
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": true
+}
+```
+* Add `-dota_filter_hero`
+```json
+{
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": true
+}
+```
+* Add `-dota_filter_non_hero`
+```json
+{
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": true
+}
+```
+* Add `dota_show_crownfall_collectors_cache_vote_page`
+```json
+{
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+
+## 2024-04-18, Version 6027
 
 > [!NOTE]
 > Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/f66bf06>  
