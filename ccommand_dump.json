@@ -11,112 +11,140 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1377
+        "index": 1386
     },
     "+cammousemove": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1375
+        "index": 1384
     },
     "+chatwheel": {
         "description": "Opens chatwheel menu while held",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 942
+        "index": 960
     },
     "+chatwheel2": {
         "description": "Opens the second chatwheel menu while held",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 944
+        "index": 962
     },
     "+dota_ability_execute": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 938
+        "index": 956
     },
     "+dota_camera_center_on_hero": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1234
+        "index": 1243
     },
     "+dota_camera_follow": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1232
+        "index": 1241
     },
     "+dota_control_group": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1223
+        "index": 1232
+    },
+    "+dota_filter_ally": {
+        "description": "",
+        "flags": "devonly, client",
+        "flagsRaw": 10,
+        "hasDefensiveFlag": true,
+        "index": 1291
+    },
+    "+dota_filter_enemy": {
+        "description": "",
+        "flags": "devonly, client",
+        "flagsRaw": 10,
+        "hasDefensiveFlag": true,
+        "index": 1289
+    },
+    "+dota_filter_hero": {
+        "description": "",
+        "flags": "devonly, client",
+        "flagsRaw": 10,
+        "hasDefensiveFlag": true,
+        "index": 1094
+    },
+    "+dota_filter_non_hero": {
+        "description": "",
+        "flags": "devonly, client",
+        "flagsRaw": 10,
+        "hasDefensiveFlag": true,
+        "index": 1096
     },
     "+dota_hud_overlaymap_inputkey": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 966
+        "index": 984
     },
     "+dota_hud_toggle_overlaymap": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 964
+        "index": 982
     },
     "+dota_stop": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1244
+        "index": 1253
     },
     "+dota_unit_movetodirection": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1248
+        "index": 1257
     },
     "+herochatwheel": {
         "description": "Opens hero chatwheel menu while held",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 947
+        "index": 965
     },
     "+midi_note": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1130
+        "index": 1147
     },
     "+showitems": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 850
+        "index": 859
     },
     "+showscores": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 976
+        "index": 850
     },
     "-bugvoice": {
         "description": "Finish recording bug voice attachment.",
@@ -130,112 +158,140 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1378
+        "index": 1387
     },
     "-cammousemove": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1376
+        "index": 1385
     },
     "-chatwheel": {
         "description": "Executes the highlighted chatwheel menu item",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 943
+        "index": 961
     },
     "-chatwheel2": {
         "description": "Executes the highlighted chatwheel menu item",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 945
+        "index": 963
     },
     "-dota_ability_execute": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 939
+        "index": 957
     },
     "-dota_camera_center_on_hero": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1235
+        "index": 1244
     },
     "-dota_camera_follow": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1233
+        "index": 1242
     },
     "-dota_control_group": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1224
+        "index": 1233
+    },
+    "-dota_filter_ally": {
+        "description": "",
+        "flags": "devonly, client",
+        "flagsRaw": 10,
+        "hasDefensiveFlag": true,
+        "index": 1292
+    },
+    "-dota_filter_enemy": {
+        "description": "",
+        "flags": "devonly, client",
+        "flagsRaw": 10,
+        "hasDefensiveFlag": true,
+        "index": 1290
+    },
+    "-dota_filter_hero": {
+        "description": "",
+        "flags": "devonly, client",
+        "flagsRaw": 10,
+        "hasDefensiveFlag": true,
+        "index": 1095
+    },
+    "-dota_filter_non_hero": {
+        "description": "",
+        "flags": "devonly, client",
+        "flagsRaw": 10,
+        "hasDefensiveFlag": true,
+        "index": 1097
     },
     "-dota_hud_overlaymap_inputkey": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 967
+        "index": 985
     },
     "-dota_hud_toggle_overlaymap": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 965
+        "index": 983
     },
     "-dota_stop": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1245
+        "index": 1254
     },
     "-dota_unit_movetodirection": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1249
+        "index": 1258
     },
     "-herochatwheel": {
         "description": "Executes the highlighted hero chatwheel menu item",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 948
+        "index": 966
     },
     "-midi_note": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1131
+        "index": 1148
     },
     "-showitems": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 851
+        "index": 860
     },
     "-showscores": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 977
+        "index": 851
     },
     "StackStats_Dump": {
         "description": "Dump a named stackstats structure to disk. Usage: stackstats_dump \"structname\" [\"filename\"]",
@@ -312,7 +368,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1098
+        "index": 1115
     },
     "addip": {
         "description": "Add an IP address to the ban list.",
@@ -410,7 +466,7 @@
         "flags": "devonly, client, hidden",
         "flagsRaw": 26,
         "hasDefensiveFlag": true,
-        "index": 1123
+        "index": 1140
     },
     "auto_bug": {
         "description": "auto_bug : create non-interactive bug report.",
@@ -508,14 +564,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1140
+        "index": 1157
     },
     "bounty_toast_test": {
         "description": "<toast_type> <killer_id> <victim_id>",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1141
+        "index": 1158
     },
     "box": {
         "description": "Draw a bbox\n\tArguments:  minx miny miny maxx maxy maxz <lifetime = 10.0> <r g b a>\n",
@@ -529,56 +585,56 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 920
+        "index": 938
     },
     "broadcaster_annotatefacts": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 921
+        "index": 939
     },
     "broadcaster_build_ability_movie_loc": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 922
+        "index": 940
     },
     "broadcaster_openmenu": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 915
+        "index": 933
     },
     "broadcaster_openquickstats": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 916
+        "index": 934
     },
     "broadcaster_reloadfacts": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 919
+        "index": 937
     },
     "broadcaster_setsecondaryquickstats": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 918
+        "index": 936
     },
     "broadcaster_togglegreenscreen": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 917
+        "index": 935
     },
     "bug": {
         "description": "bug [auto_fill_tokens] [-title <text>] [-noscreenshot] : Activate the bug reporter.",
@@ -606,7 +662,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1393
+        "index": 1402
     },
     "button_info": {
         "description": "Display information about the specified key or button.",
@@ -620,56 +676,56 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1369
+        "index": 1378
     },
     "camera_cut_to_datadriven_camera": {
         "description": "",
         "flags": "devonly, client, hidden",
         "flagsRaw": 26,
         "hasDefensiveFlag": true,
-        "index": 1265
+        "index": 1274
     },
     "camerazoomin": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1359
+        "index": 1368
     },
     "camerazoomout": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1360
+        "index": 1369
     },
     "cameron_test": {
         "description": "For Cameron",
         "flags": "devonly, client, hidden",
         "flagsRaw": 26,
         "hasDefensiveFlag": true,
-        "index": 1172
+        "index": 1189
     },
     "camortho": {
         "description": "Switch to orthographic camera.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1374
+        "index": 1383
     },
     "cancelselect": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1203
+        "index": 1212
     },
     "capturecubemap": {
         "description": "Capture Cubemap",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1394
+        "index": 1403
     },
     "cast_aabb": {
         "description": "Tests box collision detection",
@@ -739,84 +795,84 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 908
+        "index": 926
     },
     "cavern_crawl_reload_layout": {
         "description": "Debug utility for cavern crawl",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 907
+        "index": 925
     },
     "cavern_crawl_toggle_debug": {
         "description": "Debug utility for cavern crawl",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 906
+        "index": 924
     },
     "cavern_crawl_ui_debug_flare": {
         "description": "Debug utility for flare",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 912
+        "index": 930
     },
     "cavern_crawl_ui_debug_inventory": {
         "description": "Debug utility for inventory",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 910
+        "index": 928
     },
     "cavern_crawl_ui_debug_swap": {
         "description": "Debug utility for swap",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 911
+        "index": 929
     },
     "cavern_crawl_ui_generate_path_pos": {
         "description": "Generates Path Positions",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 909
+        "index": 927
     },
     "cc_emit": {
         "description": "Emits a closed caption",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1209
+        "index": 1218
     },
     "cc_findsound": {
         "description": "Searches for soundname which emits specified text.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1213
+        "index": 1222
     },
     "cc_flush": {
         "description": "Flushes async'd captions.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1211
+        "index": 1220
     },
     "cc_random": {
         "description": "Emits a random caption",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1210
+        "index": 1219
     },
     "cc_showblocks": {
         "description": "Toggles showing which blocks are pending/loaded async.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1212
+        "index": 1221
     },
     "changelevel": {
         "description": "changelevel <mapname> :Multiplayer change level.",
@@ -830,91 +886,91 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1137
+        "index": 1154
     },
     "chat_debug_add_members": {
         "description": "Adds dummy members to a chat channel",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1136
+        "index": 1153
     },
     "chat_join": {
         "description": "Join a chat channel",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1132
+        "index": 1149
     },
     "chat_join_hltv": {
         "description": "Join an hltv chat channel",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1133
+        "index": 1150
     },
     "chat_leave": {
         "description": "Leave a chat channel",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1134
+        "index": 1151
     },
     "chat_say": {
         "description": "Send a message to the specified channel",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1135
+        "index": 1152
     },
     "chatwheel_say": {
         "description": "Send a chatwheel message. Usage: chatwheel_say <messagenum>",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 946
+        "index": 964
     },
     "check_game_mode": {
         "description": "Checks game mode is up to date",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 873
+        "index": 882
     },
     "cl_anim_dump_update_list": {
         "description": "Displays stats about which animations are updating",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1384
+        "index": 1393
     },
     "cl_anim_eval_stats": {
         "description": "Displays stats about how many EvaluatePose calls are unused",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1396
+        "index": 1405
     },
     "cl_animgraph_dump_update_list": {
         "description": "Displays stats about which animations are updating",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1395
+        "index": 1404
     },
     "cl_axis": {
         "description": "Draw an axis\n\tArguments:  x y z pitch yaw roll <lifetime = 10.0> <r g b a>\n",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1432
+        "index": 1441
     },
     "cl_box": {
         "description": "Draw a bbox\n\tArguments:  minx miny miny maxx maxy maxz <lifetime = 10.0> <r g b a>\n",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1431
+        "index": 1440
     },
     "cl_break_on_missing_resource": {
         "description": "Break in debugger when missing resource match is found.\nFormat: cl_break_on_missing_resource <substring> /(empty to break on all) / 0 to turn off.\n",
@@ -935,483 +991,483 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1513
+        "index": 1522
     },
     "cl_debugoverlay_cycle_domain": {
         "description": "Toggles visibility of the debug overlay system.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1315
+        "index": 1324
     },
     "cl_debugoverlay_cycle_state": {
         "description": "Toggles visibility of the debug overlay system.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1316
+        "index": 1325
     },
     "cl_debugoverlay_hide_imgui": {
         "description": "Hides the overlay.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1317
+        "index": 1326
     },
     "cl_debugoverlay_toggle": {
         "description": "Toggles visibility of the debug overlay system.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1314
+        "index": 1323
     },
     "cl_decal_clear_all_entities": {
         "description": "Clears decals from all entities",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1511
+        "index": 1520
     },
     "cl_decal_clear_world": {
         "description": "Clears world decals",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1510
+        "index": 1519
     },
     "cl_decal_debug": {
         "description": "Toggles client decal debug visualization",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1507
+        "index": 1516
     },
     "cl_decal_shoot": {
         "description": "Shoots a client-side decal",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1508
+        "index": 1517
     },
     "cl_destroy_ragdolls": {
         "description": "Destroys all client-side ragdolls",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1383
+        "index": 1392
     },
     "cl_dota_contextual_tips_reload": {
         "description": "Reload the contextual tips definition file",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1296
+        "index": 1305
     },
     "cl_dota_contextual_tips_reset_history": {
         "description": "Resets the contextual tips clouded history file",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1295
+        "index": 1304
     },
     "cl_dota_dump_econ_item_stringtable": {
         "description": "cl_dota_dump_econ_item_stringtable",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 872
+        "index": 881
     },
     "cl_dota_dump_modifier_stringtable": {
         "description": "cl_dota_dump_modifier_stringtable",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1291
+        "index": 1300
     },
     "cl_dota_rubick_arcana_reload": {
         "description": "Reload the rubick arcana descriptor file",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1106
+        "index": 1123
     },
     "cl_dota_showents": {
         "description": "Dump entity list to console.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1300
+        "index": 1309
     },
     "cl_drawcross": {
         "description": "Draws a cross at the given location\n\tArguments: x y z",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1430
+        "index": 1439
     },
     "cl_drawline": {
         "description": "Draws line between two 3D Points.\n\tGreen if no collision\n\tRed is collides with something\n\tArguments: x1 y1 z1 x2 y2 z2",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1429
+        "index": 1438
     },
     "cl_dump_modifier_list": {
         "description": "Dumps all modifiers that exist in the game",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1292
+        "index": 1301
     },
     "cl_dump_projected_texture_count": {
         "description": "Print out number of active projected textures",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1345
+        "index": 1354
     },
     "cl_dumpentity": {
         "description": "Dumps info about an entity",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1440
+        "index": 1449
     },
     "cl_dumpsplithacks": {
         "description": "Dump split screen workarounds.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1361
+        "index": 1370
     },
     "cl_ent_absbox": {
         "description": "Displays the total bounding box for the given entity(s) in green.  Some entites will also display entity specific overlays.\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1410
+        "index": 1419
     },
     "cl_ent_actornames": {
         "description": "Displays the entity name for all entities that have ShouldDisplayInActorNames true in code",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1400
+        "index": 1409
     },
     "cl_ent_animgraph_debug": {
         "description": "Displays debug draws about the given entity(ies) animgraph\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1311
+        "index": 1320
     },
     "cl_ent_animgraph_record": {
         "description": "Toggles recording of animgraph replay of the given entity(s)\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1427
+        "index": 1436
     },
     "cl_ent_attachments": {
         "description": "Displays the attachment points on an entity.\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1411
+        "index": 1420
     },
     "cl_ent_bbox": {
         "description": "Displays the movement bounding box for the given entity(ies) in orange.  Some entites will also display entity specific overlays.\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1409
+        "index": 1418
     },
     "cl_ent_call": {
         "description": "ent_call <funcname> <option:entname> calls function on current look target or filtername, checks on ent, then root, then mode, then map scope",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1388
+        "index": 1397
     },
     "cl_ent_clear_debug_overlays": {
         "description": "Clears all debug overlays",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1423
+        "index": 1432
     },
     "cl_ent_find": {
         "description": "Find and list all entities with classnames or targetnames that contain the specified substrings.\nFormat: find_ent <substring>\n",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1391
+        "index": 1400
     },
     "cl_ent_find_index": {
         "description": "Display data for entity matching specified index.\nFormat: find_ent_index <index>\n",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1392
+        "index": 1401
     },
     "cl_ent_grab": {
         "description": "grabs the object in front of the player. Options: -loose -multiple -toggle",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1397
+        "index": 1406
     },
     "cl_ent_hierarchy": {
         "description": "Prints the entity hierarchy tree rooted at the specified ent(s)",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1441
+        "index": 1450
     },
     "cl_ent_hitbox": {
         "description": "Displays the hitboxes for the given entity(ies).\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1417
+        "index": 1426
     },
     "cl_ent_joints": {
         "description": "Displays the joint names + axes an entity.\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1412
+        "index": 1421
     },
     "cl_ent_messages": {
         "description": "Toggles input/output message display for the selected entity(ies).  The name of the entity will be displayed as well as any messages that it sends or receives.\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1420
+        "index": 1429
     },
     "cl_ent_name": {
         "description": "Displays the entity name",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1399
+        "index": 1408
     },
     "cl_ent_picker": {
         "description": "Toggles 'picker' mode.  When picker is on, the bounding box, pivot and debugging text is displayed for whatever entity the player is looking at.\n\tArguments:\tfull - enables all debug information",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1421
+        "index": 1430
     },
     "cl_ent_pivot": {
         "description": "Displays the pivot for the given entity(ies).\n\t(y=up=green, z=forward=blue, x=left=red). \n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1414
+        "index": 1423
     },
     "cl_ent_remove": {
         "description": "Removes the given entity(s)\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1425
+        "index": 1434
     },
     "cl_ent_remove_all": {
         "description": "Removes all entities of the specified type\n\tArguments:   \t{entity_name} / {class_name} ",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1426
+        "index": 1435
     },
     "cl_ent_scale": {
         "description": "Scales entities.\tArguments: <scale factor> <{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}>",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1424
+        "index": 1433
     },
     "cl_ent_scenehierarchy": {
         "description": "Prints the entity scenenode hierarchy tree rooted at the specified ent(s)",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1442
+        "index": 1451
     },
     "cl_ent_script_dump": {
         "description": "Dumps the names and values of this entity's script scope to the console\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1389
+        "index": 1398
     },
     "cl_ent_select": {
         "description": "Select or deselects the given entities(s) for later manipulation\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1419
+        "index": 1428
     },
     "cl_ent_setang": {
         "description": "Set entity angles",
         "flags": "client, cheat",
         "flagsRaw": 33570824,
         "hasDefensiveFlag": false,
-        "index": 1387
+        "index": 1396
     },
     "cl_ent_setname": {
         "description": "Sets the targetname of the given entity(s)\n\tArguments:   \t<new entity name> <{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}>",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1390
+        "index": 1399
     },
     "cl_ent_setpos": {
         "description": "Move entity to position",
         "flags": "client, cheat",
         "flagsRaw": 33570824,
         "hasDefensiveFlag": false,
-        "index": 1386
+        "index": 1395
     },
     "cl_ent_show_damage": {
         "description": "Sets damage display mode.  When on, you will see the amount of damage dealt over the target's head.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1422
+        "index": 1431
     },
     "cl_ent_skeleton": {
         "description": "Displays the skeleton for the given entity(ies).\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1416
+        "index": 1425
     },
     "cl_ent_spew_derived_classes": {
         "description": "Prints out all entity classes which inherit from a specified base class",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1326
+        "index": 1335
     },
     "cl_ent_text": {
         "description": "Displays text debugging information about the given entity(ies) on top of the entity (See Overlay Text)\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat, vconsole_fuzzy",
         "flagsRaw": 8405000,
         "hasDefensiveFlag": false,
-        "index": 1401
+        "index": 1410
     },
     "cl_ent_text256": {
         "description": "Displays text debugging information about the given entity(ies) [within 256 units of the player] on top of the entity (See Overlay Text)\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1403
+        "index": 1412
     },
     "cl_ent_text_clear": {
         "description": "Hide text debugging information about the given entity(ies) on top of the entity (See Overlay Text)\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1404
+        "index": 1413
     },
     "cl_ent_text_filter": {
         "description": "Set which ent_text filters you want: ",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1385
+        "index": 1394
     },
     "cl_ent_text_radius": {
         "description": "Displays text debugging information about the given entity(ies) [near the player] on top of the entity (See Overlay Text)\n\t2 Arguments:   \t<Radius> <{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}>",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1402
+        "index": 1411
     },
     "cl_ent_text_sticky_add": {
         "description": "Adds to list of names to display text debugging information about the given entity(ies) on top of the entity (See Overlay Text)\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1405
+        "index": 1414
     },
     "cl_ent_text_sticky_clear": {
         "description": "Clears the list of names to display text debugging information about the given entity(ies) on top of the entity (See Overlay Text)\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1407
+        "index": 1416
     },
     "cl_ent_text_sticky_dump": {
         "description": "Spews the list of names to display text debugging information about the given entity(ies) on top of the entity (See Overlay Text)\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1408
+        "index": 1417
     },
     "cl_ent_text_sticky_remove": {
         "description": "Removes from the list of names to display text debugging information about the given entity(ies) on top of the entity (See Overlay Text)\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1406
+        "index": 1415
     },
     "cl_ent_ungrab": {
         "description": "un-grabs all objects",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1398
+        "index": 1407
     },
     "cl_ent_vcollide_wireframe": {
         "description": "Displays the interpolated vcollide wireframe pm am entity.\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1418
+        "index": 1427
     },
     "cl_ent_viewoffset": {
         "description": "Displays the eye position for the given entity(ies) in red.\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1413
+        "index": 1422
     },
     "cl_ent_visibility_traces": {
         "description": "Displays visibility traces for the given entity\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat, vconsole_fuzzy",
         "flagsRaw": 8405000,
         "hasDefensiveFlag": false,
-        "index": 1415
+        "index": 1424
     },
     "cl_entityreport": {
         "description": "Reports all extant entities. Optional 2nd arg is a substring of a classname that the list will be filtered by.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1514
+        "index": 1523
     },
     "cl_entitysummary": {
         "description": "Summarizes (by class) all extant entities. Optional 2nd arg is a substring of a classname that the list will be filtered by.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1515
+        "index": 1524
     },
     "cl_ents": {
         "description": "List client entities, sorted by spawn group",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1325
+        "index": 1334
     },
     "cl_fow_viz": {
         "description": "FoW viz commands",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1093
+        "index": 1110
     },
     "cl_fullupdate": {
         "description": "Force uncompressed update",
@@ -1425,77 +1481,77 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1506
+        "index": 1515
     },
     "cl_imgui_debug_entity": {
         "description": "Shows the entity browswer, focused on the entity you specify.\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1319
+        "index": 1328
     },
     "cl_imgui_set_selection": {
         "description": "Sets ImGui selection",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1318
+        "index": 1327
     },
     "cl_imgui_set_status_text": {
         "description": "Sets ImGui header status text",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1320
+        "index": 1329
     },
     "cl_in_forcebuttonstate": {
         "description": "Forces a button to be a particular state - WHEN PROCESSING USERCOMMANDS",
         "flags": "devonly, client, vconsole_fuzzy",
         "flagsRaw": 8388618,
         "hasDefensiveFlag": false,
-        "index": 1329
+        "index": 1338
     },
     "cl_interp": {
         "description": "Read the effective client simulation interpolation amount in terms of time.",
         "flags": "client, release",
         "flagsRaw": 524296,
         "hasDefensiveFlag": false,
-        "index": 1312
+        "index": 1321
     },
     "cl_npc_test_autostyle": {
         "description": "Debugging helper to try out different autostyle configurations\n\tArguments:   \t<{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}> <var name> <value>\n",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1294
+        "index": 1303
     },
     "cl_panorama_script_help": {
         "description": "Display Panorama JavaScript bindings",
         "flags": "client, release",
         "flagsRaw": 524296,
         "hasDefensiveFlag": false,
-        "index": 1120
+        "index": 1137
     },
     "cl_panorama_script_help_2": {
         "description": "Display all registered Panorama JavaScript bindings in wiki syntax",
         "flags": "client, release",
         "flagsRaw": 524296,
         "hasDefensiveFlag": false,
-        "index": 1122
+        "index": 1139
     },
     "cl_panorama_typescript_declarations": {
         "description": "Display Panorama JavaScript bindings as TypeScript declarations",
         "flags": "client, release",
         "flagsRaw": 524296,
         "hasDefensiveFlag": false,
-        "index": 1121
+        "index": 1138
     },
     "cl_particles_dump_effects": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1382
+        "index": 1391
     },
     "cl_particles_dumplist": {
         "description": "Dump all new particles, optional name substring.",
@@ -1516,84 +1572,84 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1454
+        "index": 1463
     },
     "cl_phys_dump_intersection_controller": {
         "description": "Dump intersection controller status",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1446
+        "index": 1455
     },
     "cl_phys_dump_main_world": {
         "description": "Dump physics main world to file",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1443
+        "index": 1452
     },
     "cl_phys_list": {
         "description": "List all physics component contents of every entity in the game;\n    -stream [1|0] : initiate|terminate streaming to physics debugger\n    -allents: include non-physical entities\n    -classes: print class names\n    -sdk    : Rubikon build\n    -world  : current state of the world\n    -world -touch: list body pairs (bodies in contact)\n    -world -save <name>: save world to a file\n    -world -mem: memory dump\n    -world -snapshots: Start/Stop dumping snapshots of the world into the current directory\n    -world -profiletraces: ProfileRecordedTraces\n    -world -agg: current aggregate data registry (loaded resources)\n",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1447
+        "index": 1456
     },
     "cl_phys_record_rays": {
         "description": "Dump physics main world to file",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1444
+        "index": 1453
     },
     "cl_phys_record_rays_and_world": {
         "description": "Dump traces physics main world to file",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1445
+        "index": 1454
     },
     "cl_phys_sleep": {
         "description": "Put all physics in all the worlds to sleep",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1448
+        "index": 1457
     },
     "cl_phys_wakeup": {
         "description": "Wake all physics objects in the Main physics up",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1449
+        "index": 1458
     },
     "cl_physics_add_test": {
         "description": "add test object",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1452
+        "index": 1461
     },
     "cl_physics_highlight_active": {
         "description": "Turns on the absbox for all active physics objects.\n  0 : un-highlight.\n",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1450
+        "index": 1459
     },
     "cl_physics_remove_test": {
         "description": "remove test object",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1453
+        "index": 1462
     },
     "cl_physics_report_active": {
         "description": "Lists all active physics objects\n  -more : extra info\n",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1451
+        "index": 1460
     },
     "cl_precacheinfo": {
         "description": "Show precache info (client).",
@@ -1607,308 +1663,308 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1286
+        "index": 1295
     },
     "cl_pred_track_off": {
         "description": "clear field track changes.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1287
+        "index": 1296
     },
     "cl_predictioncopy_describe": {
         "description": "Describe datamap_t for entindex",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1288
+        "index": 1297
     },
     "cl_predictioncopy_print": {
         "description": "Print simple description of prediction copy fields for entindex",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1289
+        "index": 1298
     },
     "cl_printfps": {
         "description": "Print information from cl_showfps.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1364
+        "index": 1373
     },
     "cl_prop_debug": {
         "description": "Toggle prop debug mode. If on, props will show colorcoded bounding boxes. Red means ignore all damage. White means respond physically to damage but never break. Green maps health in the range of 100 down to 1.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1313
+        "index": 1322
     },
     "cl_querycache_stats": {
         "description": "Display status of the query cache (client only)",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1185
+        "index": 1194
     },
     "cl_record_bone_setup_stats": {
         "description": "generate bone setup statistics",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1335
+        "index": 1344
     },
     "cl_removedecals": {
         "description": "Remove the decals from the entity under the crosshair.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1339
+        "index": 1348
     },
     "cl_report_entities": {
         "description": "Lists all entities",
         "flags": "devonly, client, cheat",
         "flagsRaw": 16394,
         "hasDefensiveFlag": false,
-        "index": 1324
+        "index": 1333
     },
     "cl_report_predcopy_overrides": {
         "description": "Report prediction copy overrides",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1290
+        "index": 1299
     },
     "cl_report_simthinklist": {
         "description": "Lists all simulating/thinking entities",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1457
+        "index": 1466
     },
     "cl_report_soundpatch": {
         "description": "reports client-side sound patch count",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1186
+        "index": 1195
     },
     "cl_resetfps": {
         "description": "Reset information from cl_showfps.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1365
+        "index": 1374
     },
     "cl_rr_findrules": {
         "description": "Search and list rules by substring.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1309
+        "index": 1318
     },
     "cl_rr_findrules_verbose": {
         "description": "Search and list rules by substring.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1310
+        "index": 1319
     },
     "cl_rr_reloadresponsesystems": {
         "description": "Reload all response system scripts.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1308
+        "index": 1317
     },
     "cl_save_animgraph_recording": {
         "description": "Saves all active animgraph recordings to disk",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1428
+        "index": 1437
     },
     "cl_script_add_debug_filter": {
         "description": "Add a filter to the game debug overlay",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1469
+        "index": 1478
     },
     "cl_script_add_watch": {
         "description": "Add a watch to the game debug overlay",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1465
+        "index": 1474
     },
     "cl_script_add_watch_pattern": {
         "description": "Add a watch to the game debug overlay",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1467
+        "index": 1476
     },
     "cl_script_attach_debugger": {
         "description": "Connect the vscript VM to the script debugger",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1463
+        "index": 1472
     },
     "cl_script_clear_watches": {
         "description": "Clear all watches from the game debug overlay",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1477
+        "index": 1486
     },
     "cl_script_debug": {
         "description": "Toggle the in-game script debug features",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1464
+        "index": 1473
     },
     "cl_script_dump_all": {
         "description": "Dump the state of the VM to the console",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1284
+        "index": 1293
     },
     "cl_script_find": {
         "description": "Find a key in the VM ",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1478
+        "index": 1487
     },
     "cl_script_help": {
         "description": "Output help for script functions",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1482
+        "index": 1491
     },
     "cl_script_help2": {
         "description": "Output help for script functions suitable for auto-completion",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1483
+        "index": 1492
     },
     "cl_script_reload": {
         "description": "Reload scripts",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1462
+        "index": 1471
     },
     "cl_script_reload_code": {
         "description": "Execute a vscript file, replacing existing functions with the functions in the run script",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1480
+        "index": 1489
     },
     "cl_script_reload_entity_code": {
         "description": "Execute all of this entity's VScripts, replacing existing functions with the functions in the run scripts",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1481
+        "index": 1490
     },
     "cl_script_remove_debug_filter": {
         "description": "Remove a filter from the game debug overlay",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1470
+        "index": 1479
     },
     "cl_script_remove_watch": {
         "description": "Remove a watch from the game debug overlay",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1466
+        "index": 1475
     },
     "cl_script_remove_watch_pattern": {
         "description": "Remove a watch from the game debug overlay",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1468
+        "index": 1477
     },
     "cl_script_resurrect_unreachable": {
         "description": "Use the garbage collector to track down reference cycles",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1479
+        "index": 1488
     },
     "cl_script_trace_disable": {
         "description": "Turn off a particular trace output by file or function name",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1472
+        "index": 1481
     },
     "cl_script_trace_disable_all": {
         "description": "Turn off all trace output",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1476
+        "index": 1485
     },
     "cl_script_trace_disable_key": {
         "description": "Turn off a particular trace output by table/instance",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1474
+        "index": 1483
     },
     "cl_script_trace_enable": {
         "description": "Turn on a particular trace output by file or function name",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1471
+        "index": 1480
     },
     "cl_script_trace_enable_all": {
         "description": "Turn on all trace output",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1475
+        "index": 1484
     },
     "cl_script_trace_enable_key": {
         "description": "Turn on a particular trace output by table/instance",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1473
+        "index": 1482
     },
     "cl_showents": {
         "description": "Dump entity list to console.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1363
+        "index": 1372
     },
     "cl_soundscape_flush": {
         "description": "Flushes the client side soundscapes",
         "flags": "client, cheat, server_can_execute",
         "flagsRaw": 16793608,
         "hasDefensiveFlag": false,
-        "index": 1354
+        "index": 1363
     },
     "cl_soundscape_printdebuginfo": {
         "description": "print soundscapes",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1357
+        "index": 1366
     },
     "cl_spewserializers": {
         "description": "Spew serializers",
@@ -1929,14 +1985,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1358
+        "index": 1367
     },
     "cl_test_list_entities": {
         "description": "test-list entities",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1456
+        "index": 1465
     },
     "cl_ticktiming": {
         "description": "{print|<interval>} [summary|detail]  Print timing stats now, or set report interval",
@@ -1950,35 +2006,35 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1381
+        "index": 1390
     },
     "cl_updatevisibility": {
         "description": "Updates visibility bits.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1336
+        "index": 1345
     },
     "cl_wateroverride": {
         "description": "Specify a material to override the water material.",
         "flags": "devonly, client, cheat",
         "flagsRaw": 16394,
         "hasDefensiveFlag": false,
-        "index": 1247
+        "index": 1256
     },
     "claim_event_action": {
         "description": "Claim an event action",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1074
+        "index": 1092
     },
     "claim_event_level_rewards": {
         "description": "Claim rewards for an event level",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1075
+        "index": 1093
     },
     "clear": {
         "description": "Clear console output.",
@@ -1999,42 +2055,42 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1437
+        "index": 1446
     },
     "cli_ent_hitbox": {
         "description": "Displays the skeleton for the given entity(ies).\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1436
+        "index": 1445
     },
     "cli_ent_pivot": {
         "description": "Displays the interpolated pivot for the given entity(ies).\n\t(y=up=green, z=forward=blue, x=left=red). \n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1434
+        "index": 1443
     },
     "cli_ent_skeleton": {
         "description": "Displays the skeleton for the given entity(ies).\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1435
+        "index": 1444
     },
     "cli_ent_vcollide_wireframe": {
         "description": "Displays the interpolated vcollide wireframe pm am entity.\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1438
+        "index": 1447
     },
     "client_metrics_upload_immediate": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1285
+        "index": 1294
     },
     "cmd": {
         "description": "Forward command to server.",
@@ -2062,7 +2118,7 @@
         "flags": "devonly, game",
         "flagsRaw": 6,
         "hasDefensiveFlag": true,
-        "index": 1499
+        "index": 1508
     },
     "commentary_cvarsnotchanging": {
         "description": "",
@@ -2118,7 +2174,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1362
+        "index": 1371
     },
     "cpuinfo": {
         "description": "Print CPU configuration information",
@@ -2188,7 +2244,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1021
+        "index": 1039
     },
     "customgamesetup_auto_assign_players": {
         "description": "Automatically assign all curently unassigned player to teams.",
@@ -2384,7 +2440,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 883
+        "index": 892
     },
     "dev_send_gc_message_server": {
         "description": "<msgid> Send a blank body message with a given ID to gc for routing tests",
@@ -2398,14 +2454,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1025
+        "index": 1043
     },
     "dev_simulate_gcdown": {
         "description": "<state> Turn on/off simulated GC communications failure (GC is down in a way that we know it is down)",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 884
+        "index": 893
     },
     "differences": {
         "description": "Show all convars which are not at their default values (optional restricted to specific flags).",
@@ -2433,21 +2489,21 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1338
+        "index": 1347
     },
     "dota_aa_test_reduce_playtime_remaining": {
         "description": "Limit available remaining playtime.  Requires -antiaddiction_test.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1147
+        "index": 1164
     },
     "dota_ability_autocast": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 940
+        "index": 958
     },
     "dota_ability_dump_refcounts": {
         "description": "Dumps the modifier refcounts of all hero abilities",
@@ -2461,28 +2517,28 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 937
+        "index": 955
     },
     "dota_ability_learn_mode": {
         "description": "Enter the mode where ability points can be spent",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1214
+        "index": 1223
     },
     "dota_ability_quickcast": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 941
+        "index": 959
     },
     "dota_add_map_override": {
         "description": "Specify a map override to test, then use the map command to load the map with the override",
         "flags": "client, hidden, cheat",
         "flagsRaw": 16408,
         "hasDefensiveFlag": false,
-        "index": 1219
+        "index": 1228
     },
     "dota_animation_run": {
         "description": "",
@@ -2503,35 +2559,35 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1251
+        "index": 1260
     },
     "dota_battle_report_print_match_history": {
         "description": "[account id] [timestamp] [duration] Print battle report match history",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1268
+        "index": 1277
     },
     "dota_battle_report_show_new_popup": {
         "description": "[timestamp] [duration] Show the battle report popup",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1114
+        "index": 1131
     },
     "dota_battle_report_show_page": {
         "description": "[account id] - shows the battle report page for the given account id.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1086
+        "index": 1103
     },
     "dota_battle_report_show_popup": {
         "description": "[account id] [timestamp] [duration] Show the battle report popup",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1112
+        "index": 1129
     },
     "dota_bot_avg_fps": {
         "description": "Reports the average fps for this dota game",
@@ -2664,70 +2720,70 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1169
+        "index": 1186
     },
     "dota_bp_override_action": {
         "description": "<event action> [action score] - Calls dota_event_override_action for the current event",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 891
+        "index": 909
     },
     "dota_bp_override_clear": {
         "description": "Calls dota_event_override_clear for the current event",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 892
+        "index": 910
     },
     "dota_bp_override_level": {
         "description": "[level] - Calls dota_event_override_level for the current event",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 888
+        "index": 906
     },
     "dota_bp_override_owned": {
         "description": "[owned] - Calls dota_event_override_owned for the current event",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 890
+        "index": 908
     },
     "dota_bp_override_points": {
         "description": "[points] - Calls dota_event_override_points for the current event",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 887
+        "index": 905
     },
     "dota_bp_override_premium_points": {
         "description": "[premium points] - Calls dota_event_override_premium_points for the current event",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 889
+        "index": 907
     },
     "dota_bp_override_takeover": {
         "description": "[takeover_active] - Toggle the takeover for BP2022 events.  0 off, 1 on",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1165
+        "index": 1182
     },
     "dota_bracket_predictions_dump": {
         "description": "<league id>",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 995
+        "index": 1013
     },
     "dota_broadcaster_dismiss_all_stats": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 914
+        "index": 932
     },
     "dota_call_gg": {
         "description": "",
@@ -2741,63 +2797,63 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1236
+        "index": 1245
     },
     "dota_camera_center_on_entity": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1237
+        "index": 1246
     },
     "dota_camera_focus_player": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1259
+        "index": 1268
     },
     "dota_camera_get_lookatpos": {
         "description": "Prints the main camera's look-at position.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1269
+        "index": 1278
     },
     "dota_camera_get_pos": {
         "description": "Prints the camera position. If you are trying to set DOTA's main camera position, you probably want to use dota_camera_get_lookatpos and dota_camera_set_lookatpos.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1272
+        "index": 1281
     },
     "dota_camera_lerp_position": {
         "description": "Blend the camera lookat position.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1239
+        "index": 1248
     },
     "dota_camera_saved_position": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1222
+        "index": 1231
     },
     "dota_camera_set_lookatpos": {
         "description": "Sets the main camera's look-at position from (x,y) coordinates.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1270
+        "index": 1279
     },
     "dota_camera_set_position": {
         "description": "Set the camera lookat position.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1238
+        "index": 1247
     },
     "dota_cancel_GG": {
         "description": "Cancel GG call",
@@ -2811,21 +2867,21 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1276
+        "index": 1285
     },
     "dota_candy_shop_print_recipes": {
         "description": "Generate all recipes.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1275
+        "index": 1284
     },
     "dota_chat_wheel_print_hero_summary": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1157
+        "index": 1174
     },
     "dota_chat_wheel_reload": {
         "description": "Reload the chat wheel definition files",
@@ -2839,49 +2895,49 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1158
+        "index": 1175
     },
     "dota_check_localization": {
         "description": "Look over unit and ability data to verify that all the expected localization strings are present",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1297
+        "index": 1306
     },
     "dota_clear_popup_queue": {
         "description": "dota_clear_popup_queue",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1032
+        "index": 1050
     },
     "dota_clear_viewed_hero_updates": {
         "description": "Clears list of viewed updates",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1065
+        "index": 1083
     },
     "dota_collectors_cache_show_popup": {
         "description": "[account id] Show the collector's cache popup",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1113
+        "index": 1130
     },
     "dota_combatlog_scan": {
         "description": "Scans for fights",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1282
+        "index": 1100
     },
     "dota_combatlog_size": {
         "description": "Calculates the total allocations for a combatlog",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1283
+        "index": 1101
     },
     "dota_combatlog_size_server": {
         "description": "",
@@ -2909,7 +2965,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1085
+        "index": 1102
     },
     "dota_commander_report": {
         "description": "Prints a snapshot of the commander's state",
@@ -2923,21 +2979,21 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1073
+        "index": 1091
     },
     "dota_contextual_tips_queue_custom_tip": {
         "description": "Queues a specific custom client tip to be displayed",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 950
+        "index": 968
     },
     "dota_contextual_tips_queue_tip_id": {
         "description": "Queues a specific tip ID to be displayed",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 949
+        "index": 967
     },
     "dota_contextual_tips_reload": {
         "description": "Reload the contextual tips definition file",
@@ -2951,21 +3007,21 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 954
+        "index": 972
     },
     "dota_courier_deliver": {
         "description": "Order courier to deliver my items",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 953
+        "index": 971
     },
     "dota_courier_shield": {
         "description": "Activate speed shield on courier",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 955
+        "index": 973
     },
     "dota_create_ability": {
         "description": "Create an ability for the player's hero at the first unused ability index",
@@ -3035,77 +3091,77 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1177
+        "index": 994
     },
     "dota_crownfall_encounter_fishing": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1015
+        "index": 1033
     },
     "dota_crownfall_encounter_token_treasure": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1016
+        "index": 1034
     },
     "dota_crownfall_overworld_map_test_drag_zoom": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1167
+        "index": 1184
     },
     "dota_crownfall_reset_intro": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1178
+        "index": 996
     },
     "dota_crownfall_show_tokens_received": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1017
+        "index": 1035
     },
     "dota_crownfall_visual_novel_dialogue": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1018
+        "index": 1036
     },
     "dota_custom_ui_debug_panel": {
         "description": "Usage: dota_custom_ui_debug_panel <panel_type_index>",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1164
+        "index": 1181
     },
     "dota_cycle_prev_selected": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1226
+        "index": 1235
     },
     "dota_cycle_selected": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1225
+        "index": 1234
     },
     "dota_dashboard_force_background_refresh": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1166
+        "index": 1183
     },
     "dota_daynightcycle_toggle": {
         "description": "Toggle the day-night cycle.",
@@ -3119,14 +3175,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1170
+        "index": 1187
     },
     "dota_delete_all_player_cards": {
         "description": "<event id> - Delete all player cards for an event",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 894
+        "index": 912
     },
     "dota_dev": {
         "description": "DotA dev commands",
@@ -3140,21 +3196,21 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1061
+        "index": 1079
     },
     "dota_dump_behavior": {
         "description": "Dump Behavior score info.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1071
+        "index": 1089
     },
     "dota_dump_bot_state": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1302
+        "index": 1311
     },
     "dota_dump_buff_message_count": {
         "description": "dota_dump_buff_message_count",
@@ -3168,14 +3224,14 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1293
+        "index": 1302
     },
     "dota_dump_coach_state": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1258
+        "index": 1267
     },
     "dota_dump_connection_stats": {
         "description": "Dump current connection stats",
@@ -3210,14 +3266,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1305
+        "index": 1314
     },
     "dota_dump_scene_panel_state": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 932
+        "index": 950
     },
     "dota_dump_server_asset_modifiers": {
         "description": "Dump asset modifiers on the server.",
@@ -3245,91 +3301,91 @@
         "flags": "devonly, client",
         "flagsRaw": 33554442,
         "hasDefensiveFlag": false,
-        "index": 1246
+        "index": 1255
     },
     "dota_event_override_action": {
         "description": "<event id> <action id> [action score] - Set a clientside override of an event action. -1 to remove the override.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 885
+        "index": 903
     },
     "dota_event_override_clear": {
         "description": "<event id> - Clear any clientside overrides for an event",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 886
+        "index": 904
     },
     "dota_event_override_level": {
         "description": "<event id> [level] - Set a clientside override of the level value for an event. -1 to remove the override.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1082
+        "index": 900
     },
     "dota_event_override_owned": {
         "description": "<event id> [owned] - Set a clientside override of whether an event is owned. -1 for not owned, 1 for owned, 0 for no override.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1084
+        "index": 902
     },
     "dota_event_override_points": {
         "description": "<event id> [points] - Set a clientside override of the point value for an event",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1081
+        "index": 899
     },
     "dota_event_override_premium_points": {
         "description": "<event id> [premium points] - Set a clientside override of the premium points for an event. -1 to remove the override.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1083
+        "index": 901
     },
     "dota_event_set_active_seasonid": {
         "description": "Sets the current season id for an event (zero will use current timestamp)",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 893
+        "index": 911
     },
     "dota_export_steam_inventory_layout": {
         "description": "Save the inventory layout to the Steam servers.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 877
+        "index": 886
     },
     "dota_export_steam_inventory_layout_flow": {
         "description": "Save the inventory layout to the Steam servers.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 878
+        "index": 887
     },
     "dota_fake_accept_match": {
         "description": "",
         "flags": "devonly, client, hidden",
         "flagsRaw": 26,
         "hasDefensiveFlag": true,
-        "index": 1013
+        "index": 1031
     },
     "dota_fake_charge_cost_item_charges_in_flight": {
         "description": "<itemdef> <quantity> - overrides the UI to display as if you have the given value of charges for an item def in flight. Set to -1 to disable.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1070
+        "index": 1088
     },
     "dota_fake_limited_purchase_quantity": {
         "description": "<itemdef> <quantity> - overrides the UI to display as if you have purchased the given value of an item def. Set to -1 to disable.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1069
+        "index": 1087
     },
     "dota_fake_salute_player": {
         "description": "<source player id> <target player id> <event id> - fakes a client sending a salute to another player",
@@ -3343,14 +3399,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1011
+        "index": 1029
     },
     "dota_find_missing_hero_sets": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1048
+        "index": 1066
     },
     "dota_fow_disable": {
         "description": "Disable fog of war completely.",
@@ -3364,35 +3420,35 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1298
+        "index": 1307
     },
     "dota_game_account_client_debug": {
         "description": "Prints game account client info",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1151
+        "index": 1168
     },
     "dota_game_account_plus_debug": {
         "description": "Prints game account plus info",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1152
+        "index": 1169
     },
     "dota_gamemode_ability_draft_set_draft_hero_and_team": {
         "description": "Manually select which heroes will be assigned during Ability Draft lobby game. Usage: dota_gamemode_ability_draft_set_draft_hero_and_team <hero> <team:radiant/dire/extra>",
         "flags": "client, cheat, vconsole_fuzzy",
         "flagsRaw": 8405000,
         "hasDefensiveFlag": false,
-        "index": 1029
+        "index": 1047
     },
     "dota_gamemode_ability_draft_set_draft_hero_and_team_clear": {
         "description": "dota_gamemode_ability_draft_set_draft_hero_and_team : CLEAR ",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1030
+        "index": 1048
     },
     "dota_gamestate": {
         "description": "Print current game state",
@@ -3406,35 +3462,35 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 881
+        "index": 890
     },
     "dota_get_rp": {
         "description": "Retrieves the rich presence of the user (leave blank for local or specify user with SteamID.Render() format).",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1105
+        "index": 1122
     },
     "dota_get_team_info": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 904
+        "index": 922
     },
     "dota_glyph": {
         "description": "trigger the Glyph of Fortification for your team",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 959
+        "index": 977
     },
     "dota_gold_summary": {
         "description": "Print out gold info",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1267
+        "index": 1276
     },
     "dota_grant_consumable_charges": {
         "description": "Grants a player a change in consumables",
@@ -3448,14 +3504,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1077
+        "index": 895
     },
     "dota_grant_event_points": {
         "description": "Reset all state on your account relating to the given event id",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1076
+        "index": 894
     },
     "dota_gridnav_perf_test": {
         "description": "",
@@ -3469,98 +3525,98 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1044
+        "index": 1062
     },
     "dota_guild_show_create_page": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 998
+        "index": 1016
     },
     "dota_guild_show_invite_popup": {
         "description": "<guild id> Show the popup pretending you received a guild invite from yourself to a specific guild",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 923
+        "index": 941
     },
     "dota_guild_show_welcome_popup": {
         "description": "<guild id> Show the popup pretending you received a guild Welcome from yourself to a specific guild",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 924
+        "index": 942
     },
     "dota_help_tips_reset": {
         "description": "Removes records of any already dismissed help tips.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1046
+        "index": 1064
     },
     "dota_help_tips_reset_intro": {
         "description": "Removes records of intro tips.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1045
+        "index": 1063
     },
     "dota_hero_adjectives_dump": {
         "description": "[adjective] [value] Dumps out which heroes have which adjectives",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1306
+        "index": 1315
     },
     "dota_hide_fight_recap": {
         "description": "Hide the fight recap.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 957
+        "index": 975
     },
     "dota_hide_trees": {
         "description": "Mark all the trees on the map as hidden.",
         "flags": "devonly, client, cheat",
         "flagsRaw": 16394,
         "hasDefensiveFlag": false,
-        "index": 1263
+        "index": 1272
     },
     "dota_hold": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1243
+        "index": 1252
     },
     "dota_hud_debug_neutral_item_picker": {
         "description": "<item tier> - Shows the neutral item picker with items from the given tier.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 970
+        "index": 988
     },
     "dota_hud_fake_accept_match": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1055
+        "index": 1073
     },
     "dota_hud_onstage_reload": {
         "description": "Recreates HUD Onstage panel",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1058
+        "index": 1076
     },
     "dota_hud_reload": {
         "description": "Recreates HUD panel",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1052
+        "index": 1070
     },
     "dota_hud_wager_spoof": {
         "description": "Spoof a wager for a specific player",
@@ -3574,35 +3630,35 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 880
+        "index": 889
     },
     "dota_invite_debug": {
         "description": "Prints local invite objects",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1150
+        "index": 1167
     },
     "dota_item_autocast": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 962
+        "index": 980
     },
     "dota_item_execute": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 960
+        "index": 978
     },
     "dota_item_quick_cast": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 961
+        "index": 979
     },
     "dota_kill_all_bots": {
         "description": "Destroys all bots",
@@ -3637,42 +3693,42 @@
         "flags": "client, hidden",
         "flagsRaw": 33554456,
         "hasDefensiveFlag": false,
-        "index": 1171
+        "index": 1188
     },
     "dota_launch_custom_game": {
         "description": "Launch a custom game",
         "flags": "client, release, vconsole_fuzzy, vconsole_set_focus",
         "flagsRaw": 143130632,
         "hasDefensiveFlag": false,
-        "index": 1144
+        "index": 1161
     },
     "dota_launch_event_game": {
         "description": "Launch an event game",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1145
+        "index": 1162
     },
     "dota_league_refresh_localization": {
         "description": "Refreshes the english localization file with all the latest league strings",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1060
+        "index": 1078
     },
     "dota_league_shared_dump": {
         "description": "Dumps the shared league data to the console",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1099
+        "index": 1116
     },
     "dota_learn_stats": {
         "description": "Show talents popup",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 871
+        "index": 880
     },
     "dota_leaver_status": {
         "description": "List leaver status of players",
@@ -3686,7 +3742,7 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1307
+        "index": 1316
     },
     "dota_load_demo_mode_scenario": {
         "description": "[input_file]",
@@ -3700,28 +3756,28 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1101
+        "index": 1118
     },
     "dota_localization_rearrange": {
         "description": "<english file> [language]",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1100
+        "index": 1117
     },
     "dota_localize_hero_chat_wheel": {
         "description": "Automatically localize hero chat wheel messages in chat_wheel_staging.txt using the sound subtitles files.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1162
+        "index": 1179
     },
     "dota_minimap_create": {
         "description": "Does a bunch of work to create a minimap",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1304
+        "index": 1313
     },
     "dota_modifier_dump": {
         "description": "Dump all modifiers on all entities.",
@@ -3742,28 +3798,28 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 968
+        "index": 986
     },
     "dota_onstage_toggle_cursor": {
         "description": "Toggles the cursor on the onstage panel, helpful for pano debugging",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1059
+        "index": 1077
     },
     "dota_overworld_trade_tokens": {
         "description": "Usage: dota_overworld_trade_tokens <token_id request> <token_id offer1> <token_id offer2> <token_id offer3>[ token_id offer4 ]",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1102
+        "index": 1119
     },
     "dota_party_debug": {
         "description": "Prints local party objects",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1149
+        "index": 1166
     },
     "dota_path_repro": {
         "description": "Repro case for a pathing bug",
@@ -3777,7 +3833,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1266
+        "index": 1275
     },
     "dota_pick_hero": {
         "description": "Pick a hero for <player-id> <hero> [<random-seed>]",
@@ -3805,49 +3861,49 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1066
+        "index": 1084
     },
     "dota_portrait_reload": {
         "description": "Reload portrait data",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1216
+        "index": 1225
     },
     "dota_portrait_reload_file": {
         "description": "Reloads portrait data.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1299
+        "index": 1308
     },
     "dota_post_game": {
         "description": "Show post game lobby with a historical matchid",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1004
+        "index": 1022
     },
     "dota_post_game_lobby": {
         "description": "Show post game lobby with current lobby",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1005
+        "index": 1023
     },
     "dota_post_game_progress_cavern_move_to": {
         "description": "Test cavern post-game",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1168
+        "index": 1185
     },
     "dota_post_game_progress_wraith_king_move_to": {
         "description": "Test wraith king arcana post-game",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1039
+        "index": 1057
     },
     "dota_preview_hero": {
         "description": "Pick hero for previewing",
@@ -3861,35 +3917,35 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1008
+        "index": 1026
     },
     "dota_purchase_quickbuy": {
         "description": "Attempt to purchase an item out of the quickbuy. Priority is left to right, skips over items not purchasable due to secret shop",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1103
+        "index": 1120
     },
     "dota_purchase_stickybuy": {
         "description": "Attempt to purchase an item out of the sticky slot. Skips over items not purchasable due to secret shop",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1104
+        "index": 1121
     },
     "dota_radar": {
         "description": "Activate radar mode",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 975
+        "index": 993
     },
     "dota_recent_event": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1231
+        "index": 1240
     },
     "dota_record_hero": {
         "description": "Pick hero for recording",
@@ -3917,14 +3973,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1218
+        "index": 1227
     },
     "dota_redeem_item_code": {
         "description": "Redeem a legacy Dota item code.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1042
+        "index": 1060
     },
     "dota_ref_winner_dire": {
         "description": "Causes the dire team to win",
@@ -3945,14 +4001,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1257
+        "index": 1266
     },
     "dota_reload_text_chat_macros": {
         "description": "Reload chat macros",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1156
+        "index": 1173
     },
     "dota_remove_ability": {
         "description": "Remove an ability from the player's hero. If no index is specified, remove all abilities except talents and stats.",
@@ -3966,42 +4022,42 @@
         "flags": "client, hidden, cheat",
         "flagsRaw": 16408,
         "hasDefensiveFlag": false,
-        "index": 1220
+        "index": 1229
     },
     "dota_reset_event_action": {
         "description": "<event id> <start action id> [remove audit]",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1079
+        "index": 897
     },
     "dota_reset_event_action_range": {
         "description": "<event id> <start action id> <end action id> [remove audit]",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1080
+        "index": 898
     },
     "dota_reset_event_state": {
         "description": "Reset all state on your account relating to the given event id",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1078
+        "index": 896
     },
     "dota_reset_muerta_ofrenda_state": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1003
+        "index": 1021
     },
     "dota_reset_violators": {
         "description": "Resets the state of all violators.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 935
+        "index": 953
     },
     "dota_respawn_roshan": {
         "description": "Respawn Roshan",
@@ -4022,14 +4078,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1107
+        "index": 1124
     },
     "dota_scale_unit": {
         "description": "Scales the unit to the target multiplier",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1221
+        "index": 1230
     },
     "dota_script_function_help": {
         "description": "Get help on registered script API functions and tables.",
@@ -4043,42 +4099,42 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1087
+        "index": 1104
     },
     "dota_select_all": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1230
+        "index": 1239
     },
     "dota_select_all_others": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1229
+        "index": 1238
     },
     "dota_select_ally": {
         "description": "selects an ally",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1228
+        "index": 1237
     },
     "dota_select_courier": {
         "description": "Select a courier, or snap camera to courier if already selected",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 951
+        "index": 969
     },
     "dota_select_scout": {
         "description": "Select a scout, or snap camera to courier if already selected",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 952
+        "index": 970
     },
     "dota_server_lobby_debug": {
         "description": "Prints server lobby object",
@@ -4099,7 +4155,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 985
+        "index": 1003
     },
     "dota_set_time": {
         "description": "",
@@ -4113,273 +4169,280 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 913
+        "index": 931
     },
     "dota_show_battle_pass_purchase_page_fall2021": {
         "description": "Show page allowing purchase of the battle pass. Argument: [gift]",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1180
+        "index": 998
     },
     "dota_show_battle_pass_purchase_page_international2022": {
         "description": "Show page allowing purchase of the battle pass. Argument: [gift]",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 992
+        "index": 1010
     },
     "dota_show_battle_pass_purchase_page_spring2021": {
         "description": "Show page allowing purchase of the battle pass. Argument: [gift]",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 994
+        "index": 1012
     },
     "dota_show_battle_pass_purchase_page_ti10": {
         "description": "Show page allowing purchase of the battle pass. Argument: [gift]",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1184
+        "index": 1002
     },
     "dota_show_battle_pass_purchase_page_ti9": {
         "description": "Show page allowing purchase of the battle pass. Argument: [gift]",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1182
+        "index": 1000
     },
     "dota_show_chat_wheel_messages_unlocked_popup": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1019
+        "index": 1037
     },
     "dota_show_coach_eligiblity_popup": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1163
+        "index": 1180
     },
     "dota_show_combatlog": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1280
+        "index": 1098
+    },
+    "dota_show_crownfall_collectors_cache_vote_page": {
+        "description": "",
+        "flags": "devonly, client",
+        "flagsRaw": 10,
+        "hasDefensiveFlag": false,
+        "index": 995
     },
     "dota_show_data_driven_camera": {
         "description": "<camera_file>",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1274
+        "index": 1283
     },
     "dota_show_debug_popup": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1022
+        "index": 1040
     },
     "dota_show_diretide_2020_cosmetics_page": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 997
+        "index": 1015
     },
     "dota_show_econ_item_picker": {
         "description": "Show the econ item picker popup for a specific hero ID.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1024
+        "index": 1042
     },
     "dota_show_event_reward_toast": {
         "description": "<event id> <level> - shows the toast as if you had just claimed the level",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1115
+        "index": 1132
     },
     "dota_show_fall2021_collectors_cache_vote_page": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1179
+        "index": 997
     },
     "dota_show_fight_recap": {
         "description": "Show the most recent fight recap.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 956
+        "index": 974
     },
     "dota_show_gift_restrictions_popup": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1026
+        "index": 1044
     },
     "dota_show_hero_compare_page": {
         "description": "Shows a page with two heroes side by side.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 999
+        "index": 1017
     },
     "dota_show_initial_skill_popup": {
         "description": "Show the initial skill popup",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1027
+        "index": 1045
     },
     "dota_show_international2022_collectors_cache_vote_page": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 989
+        "index": 1007
     },
     "dota_show_invalid_role_selection_popup": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1028
+        "index": 1046
     },
     "dota_show_item_reward_toast": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1116
+        "index": 1133
     },
     "dota_show_killgraph": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 963
+        "index": 981
     },
     "dota_show_purchase_team_fan_content_popup": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 929
+        "index": 947
     },
     "dota_show_rank_calibration_popup": {
         "description": "Show the rank calibration popup",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1033
+        "index": 1051
     },
     "dota_show_rate_coaching_session_popup": {
         "description": "[is coach] Shows the rate coaching session popup with fake data as a student or coach.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 930
+        "index": 948
     },
     "dota_show_set_portrait_generator": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1034
+        "index": 1052
     },
     "dota_show_sideshop": {
         "description": "Show Sideshop",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 986
+        "index": 1004
     },
     "dota_show_splash_ads": {
         "description": "Show splash ads",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 900
+        "index": 918
     },
     "dota_show_teams_page": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1010
+        "index": 1028
     },
     "dota_show_test_item_def_page": {
         "description": "<item def> - show the page for testing a new item definition",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1002
+        "index": 1020
     },
     "dota_show_test_item_set_page": {
         "description": "<set name> - show the page for testing a new item set",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1001
+        "index": 1019
     },
     "dota_show_ti10_collectors_cache_vote_page": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1183
+        "index": 1001
     },
     "dota_show_ti9_collectors_cache_vote_page": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1181
+        "index": 999
     },
     "dota_show_trees": {
         "description": "Mark all of the trees on the map as visible.",
         "flags": "devonly, client, cheat",
         "flagsRaw": 16394,
         "hasDefensiveFlag": false,
-        "index": 1264
+        "index": 1273
     },
     "dota_showcase_admin_moderation": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1006
+        "index": 1024
     },
     "dota_showcase_admin_review_reports": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1007
+        "index": 1025
     },
     "dota_showcase_show_report_popup": {
         "description": "<account id> <showcase type> - show the report dialog for a given showcase",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1035
+        "index": 1053
     },
     "dota_sort_steam_inventory": {
         "description": "Sort the steam inventory layout.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 879
+        "index": 888
     },
     "dota_spawn_creeps": {
         "description": "Force spawn of all lane creeps.",
@@ -4414,133 +4477,133 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 981
+        "index": 855
     },
     "dota_spectator_decreasereplayspeed": {
         "description": "Decrease replay speed",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 853
+        "index": 862
     },
     "dota_spectator_fowtoggle": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 860
+        "index": 869
     },
     "dota_spectator_hudhide": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 866
+        "index": 875
     },
     "dota_spectator_hudshow": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 865
+        "index": 874
     },
     "dota_spectator_increasereplayspeed": {
         "description": "Increase replay speed",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 852
+        "index": 861
     },
     "dota_spectator_pausetoggle": {
         "description": "Toggle replay play/pause",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 854
+        "index": 863
     },
     "dota_spectator_revertcameraview": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 864
+        "index": 873
     },
     "dota_spectator_select_under_mouse": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1250
+        "index": 1259
     },
     "dota_spectator_selectnexthero": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 862
+        "index": 871
     },
     "dota_spectator_selectprevioushero": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 863
+        "index": 872
     },
     "dota_spectator_skip": {
         "description": "Skip replay by a number of seconds.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 859
+        "index": 868
     },
     "dota_spectator_skip_back_1": {
         "description": "Skip replay back by 1st increment",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 855
+        "index": 864
     },
     "dota_spectator_skip_back_2": {
         "description": "Skip replay back by 2nd increment",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 856
+        "index": 865
     },
     "dota_spectator_skip_fwd_1": {
         "description": "Skip replay forward by 1st increment",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 857
+        "index": 866
     },
     "dota_spectator_skip_fwd_2": {
         "description": "Skip replay forward by 2nd increment",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 858
+        "index": 867
     },
     "dota_spectator_statstoggle": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 861
+        "index": 870
     },
     "dota_speech_test": {
         "description": "Play an arbitrary speech VCD as if it were coming out of the local player.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1252
+        "index": 1261
     },
     "dota_speech_test_cycle": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1255
+        "index": 1264
     },
     "dota_start_auto_save_test": {
         "description": "Start an auto save game test",
@@ -4554,14 +4617,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1012
+        "index": 1030
     },
     "dota_start_party_ready_check": {
         "description": "Start a party ready check.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1064
+        "index": 1082
     },
     "dota_state_disconnect": {
         "description": "Transition to disconnect state on a listen server",
@@ -4582,14 +4645,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 901
+        "index": 919
     },
     "dota_store_show_item_unavailability": {
         "description": "Given an item def, show the reason why it's unavailable",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 902
+        "index": 920
     },
     "dota_sv_record_event_action_grant": {
         "description": "Event action grant ",
@@ -4603,49 +4666,49 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1217
+        "index": 1226
     },
     "dota_talent_upgrade_attribute": {
         "description": "Level up talent attribute.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 868
+        "index": 877
     },
     "dota_talent_upgrade_stat_left": {
         "description": "Level up talent on the left.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 869
+        "index": 878
     },
     "dota_talent_upgrade_stat_right": {
         "description": "Level up talent on the right.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 870
+        "index": 879
     },
     "dota_test_achievement_toast": {
         "description": "Create a toast for an achievement",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1072
+        "index": 1090
     },
     "dota_test_add_toast": {
         "description": "Add a test toast to the dashboard's toast manager",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1175
+        "index": 1192
     },
     "dota_test_buyback": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1254
+        "index": 1263
     },
     "dota_test_challenge": {
         "description": "",
@@ -4666,21 +4729,21 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1049
+        "index": 1067
     },
     "dota_test_glyph": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1253
+        "index": 1262
     },
     "dota_test_hero_token_popup": {
         "description": "Show the hero token popup.",
         "flags": "devonly, client, cheat",
         "flagsRaw": 16394,
         "hasDefensiveFlag": false,
-        "index": 925
+        "index": 943
     },
     "dota_test_in_game_prediction": {
         "description": "Tests the in-game prediction system",
@@ -4708,14 +4771,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1031
+        "index": 1049
     },
     "dota_test_pregame_hud": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 974
+        "index": 992
     },
     "dota_test_pseudo_random": {
         "description": "Tests results of a pseudo-random generator",
@@ -4729,28 +4792,28 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 927
+        "index": 945
     },
     "dota_test_purchase_plus": {
         "description": "Test the plus purchasing dialog",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 928
+        "index": 946
     },
     "dota_test_report_popup": {
         "description": "Test report popup",
         "flags": "devonly, client",
         "flagsRaw": 33554442,
         "hasDefensiveFlag": false,
-        "index": 1051
+        "index": 1069
     },
     "dota_test_steamchina_info": {
         "description": "Test the SteamChina info dialog",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 931
+        "index": 949
     },
     "dota_test_strange_gem": {
         "description": "Tests the strange gem system",
@@ -4778,70 +4841,70 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 991
+        "index": 1009
     },
     "dota_ti11_candy_shop_show_page": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 987
+        "index": 1005
     },
     "dota_ti11_candy_shop_show_upcoming_page": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 988
+        "index": 1006
     },
     "dota_ti11_diretide_show_page": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 990
+        "index": 1008
     },
     "dota_toggle_assisted_camera_operator": {
         "description": "Toggle assisted camera operator mode. This is a hybrid of Directed mode with operator control.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1271
+        "index": 1280
     },
     "dota_toggle_autoattack": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1256
+        "index": 1265
     },
     "dota_toggle_broadcaster_cameraman": {
         "description": "toggle cameraman",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1227
+        "index": 1236
     },
     "dota_toggle_combatlog": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1281
+        "index": 1099
     },
     "dota_toggle_free_camera": {
         "description": "Toggle free camera mode. Only available in DotaTV and replays.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1273
+        "index": 1282
     },
     "dota_toggle_hero_movie_mode": {
         "description": "Show item details pages with minimal UI, for recording hero movies",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1176
+        "index": 1193
     },
     "dota_tracked_stats_dump": {
         "description": "[all|player|team|match] Dump currently tracked stats.",
@@ -4855,7 +4918,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1262
+        "index": 1271
     },
     "dota_treerespawn": {
         "description": "Respawns all trees on the map.",
@@ -4869,7 +4932,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1301
+        "index": 1310
     },
     "dota_unit_setvalue": {
         "description": "Set a value on a unit",
@@ -4883,84 +4946,84 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 903
+        "index": 921
     },
     "dota_validate_hero_sets": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1047
+        "index": 1065
     },
     "dota_versus_screen_show_debug": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1023
+        "index": 1041
     },
     "dota_view_store_item_details": {
         "description": "<itemdef>",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1009
+        "index": 1027
     },
     "dota_weekend_tourney_debug": {
         "description": "Prints local weekend tourney object(s), if any",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1153
+        "index": 1170
     },
     "dota_wraith_king_arcana_clear_claimed": {
         "description": "Unclaim everything",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 936
+        "index": 954
     },
     "dota_wraith_king_arcana_map_show_all_alive": {
         "description": "Show every hero as alive",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 934
+        "index": 952
     },
     "dotadev_bind": {
         "description": "For development: Bind a key to in dota (ALT+key) allowed.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1117
+        "index": 1134
     },
     "dotadev_binds_show": {
         "description": "For development: List all developer binds.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1119
+        "index": 1136
     },
     "dotadev_unbind": {
         "description": "For development: Unbind a key to in dota (ALT+key) allowed.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1118
+        "index": 1135
     },
     "download_ugc_image_handle": {
         "description": "Download a UGC image file by handle",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 933
+        "index": 951
     },
     "dpc_watch_schedule_set_favorite_team_state": {
         "description": "Set favorite state for a specific team",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1040
+        "index": 1058
     },
     "drawcross": {
         "description": "Draws a cross at the given location\n\tArguments: x y z",
@@ -4981,42 +5044,42 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1143
+        "index": 1160
     },
     "duel_request_toast_test": {
         "description": "<requestor_id>",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1142
+        "index": 1159
     },
     "dump_challenges": {
         "description": "dump_challenges",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1154
+        "index": 1171
     },
     "dump_client_projectiles": {
         "description": "Spews a list of all client-side projectiles",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1260
+        "index": 1269
     },
     "dump_emoticons_csv": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1146
+        "index": 1163
     },
     "dump_entity_report": {
         "description": "List all client-side entities in the scene",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1344
+        "index": 1353
     },
     "dump_globals": {
         "description": "Dump all global entities/states",
@@ -5051,42 +5114,42 @@
         "flags": "release",
         "flagsRaw": 524288,
         "hasDefensiveFlag": false,
-        "index": 1490
+        "index": 1499
     },
     "dump_panorama_events": {
         "description": "print panorama event types and their documentation",
         "flags": "release",
         "flagsRaw": 524288,
         "hasDefensiveFlag": false,
-        "index": 1488
+        "index": 1497
     },
     "dump_panorama_render_command_stats": {
         "description": "",
         "flags": "devonly",
         "flagsRaw": 2,
         "hasDefensiveFlag": true,
-        "index": 1491
+        "index": 1500
     },
     "dump_portrait_world_info_with_debug_name_containing": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1068
+        "index": 1086
     },
     "dump_quests": {
         "description": "dump_quests",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1155
+        "index": 1172
     },
     "dump_secondary_scene_worlds": {
         "description": "Lists secondary scene worlds and ref counts",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1455
+        "index": 1464
     },
     "dump_visible_buffs": {
         "description": "Print out non-hidden buffs.",
@@ -5128,7 +5191,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 882
+        "index": 891
     },
     "enable_priority_boost": {
         "description": "Disable focus based priority boost",
@@ -5240,7 +5303,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1439
+        "index": 1448
     },
     "ent_debug_origin_changes": {
         "description": "turn on, off, or toggle origin changes on server for entity by index",
@@ -5359,7 +5422,7 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1433
+        "index": 1442
     },
     "ent_remove": {
         "description": "Removes the given entity(s)\n\tArguments:   \t{entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
@@ -5590,14 +5653,14 @@
         "flags": "devonly, game",
         "flagsRaw": 6,
         "hasDefensiveFlag": true,
-        "index": 1504
+        "index": 1513
     },
     "entitysummary": {
         "description": "Summarizes (by class) all extant entities. Optional 2nd arg is a substring of a classname that the list will be filtered by.",
         "flags": "devonly, game",
         "flagsRaw": 6,
         "hasDefensiveFlag": true,
-        "index": 1505
+        "index": 1514
     },
     "ents": {
         "description": "List server entities, sorted by spawn group",
@@ -5667,7 +5730,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1014
+        "index": 1032
     },
     "fake_meta_xp": {
         "description": "Fake meta xp values",
@@ -5681,42 +5744,42 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1092
+        "index": 1109
     },
     "fantasy_craft_populate_league_data": {
         "description": "<fantasy league id> adds teams to the fantasy crafting data for the given fantasy league id",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1088
+        "index": 1105
     },
     "fantasy_craft_reset_tablets": {
         "description": "<fantasy league id> Rerolls all attributes on all tablets for the account",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1090
+        "index": 1107
     },
     "fantasy_craft_reset_tutorial": {
         "description": "Resets the user back to the base tutorial state",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 993
+        "index": 1011
     },
     "fantasy_craft_set_roll_tokens": {
         "description": "<fantasy league id> <period id> <token_amount> Sets available roll tokens for the account",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1089
+        "index": 1106
     },
     "fantasy_craft_upgrade": {
         "description": "<fantasy league id> Upgrades the tablet to the appropriate level for the period",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1091
+        "index": 1108
     },
     "find": {
         "description": "Find concommands with the specified string in their name/help text.",
@@ -5751,28 +5814,28 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1139
+        "index": 1156
     },
     "firstperson": {
         "description": "Switch to firstperson camera.",
         "flags": "client, release, execute_per_tick",
         "flagsRaw": 537395208,
         "hasDefensiveFlag": false,
-        "index": 1371
+        "index": 1380
     },
     "fix_keyvalues_bad_newlines": {
         "description": "Attempt to fix up keyvalues files with bad UTF8 newline characters in UTF16 files",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1160
+        "index": 1177
     },
     "fix_keyvalues_missing_quotes": {
         "description": "Attempt to fix up keyvalues files that have incorrect or missing quotes.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1159
+        "index": 1176
     },
     "fog_override_color": {
         "description": "Sets the fog color override",
@@ -5814,7 +5877,7 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1094
+        "index": 1111
     },
     "fow_server_stats": {
         "description": "displays fog of war stats",
@@ -5870,14 +5933,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1321
+        "index": 1330
     },
     "game_particle_manager_list_active": {
         "description": "Dump counts of active particles",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1322
+        "index": 1331
     },
     "gameevents_analyze": {
         "description": "compare game events across all mods",
@@ -5898,35 +5961,35 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1348
+        "index": 1357
     },
     "gameinstructor_dump_run_lesson_counts": {
         "description": "Gives a list of lessons that been completed or shown",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1349
+        "index": 1358
     },
     "gameinstructor_reload_lessons": {
         "description": "Shuts down all open lessons and reloads them from the script file.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1346
+        "index": 1355
     },
     "gameinstructor_reset_counts": {
         "description": "Resets all display and success counts to zero.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1347
+        "index": 1356
     },
     "gameinstructor_teach_lesson": {
         "description": "Force a specific lesson to be triggered",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1350
+        "index": 1359
     },
     "gameui_activate": {
         "description": "Shows the game UI",
@@ -5989,7 +6052,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1277
+        "index": 1286
     },
     "generate_trash_synth": {
         "description": "Args: [Asset directory Path]",
@@ -6010,14 +6073,14 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1188
+        "index": 1197
     },
     "getpos_exact": {
         "description": "dump origin and angles to the console",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1189
+        "index": 1198
     },
     "give": {
         "description": "Give item to player.\n\tArguments: <item_name>",
@@ -6080,14 +6143,14 @@
         "flags": "devonly, game",
         "flagsRaw": 6,
         "hasDefensiveFlag": true,
-        "index": 1494
+        "index": 1503
     },
     "guidepanel_resetnag": {
         "description": "Resets the nag count on the guide panel",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1043
+        "index": 1061
     },
     "help": {
         "description": "Find help about a convar/concommand.",
@@ -6101,14 +6164,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1000
+        "index": 1018
     },
     "hide_sf_shop": {
         "description": "hide shop",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1109
+        "index": 1126
     },
     "hideconsole": {
         "description": "Hide the console.",
@@ -6143,14 +6206,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1380
+        "index": 1389
     },
     "hud_toggle_visibility": {
         "description": "Toggles the Hud on and off",
         "flags": "client",
         "flagsRaw": 33554440,
         "hasDefensiveFlag": false,
-        "index": 1050
+        "index": 1068
     },
     "hurtme": {
         "description": "Hurts the player.\n\tArguments: <health to lose>",
@@ -6164,7 +6227,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1337
+        "index": 1346
     },
     "ik_debug_fabrik_backwards_iteration_toggle": {
         "description": "",
@@ -6185,7 +6248,7 @@
         "flags": "devonly, norecord",
         "flagsRaw": 131074,
         "hasDefensiveFlag": true,
-        "index": 1493
+        "index": 1502
     },
     "ime_info": {
         "description": "Spew IME info.",
@@ -6199,7 +6262,7 @@
         "flags": "devonly, norecord",
         "flagsRaw": 131074,
         "hasDefensiveFlag": true,
-        "index": 1492
+        "index": 1501
     },
     "imgui_cycle_undocked_window_focus": {
         "description": "Cycles focus between the game window and undocked imgui windows",
@@ -6234,7 +6297,7 @@
         "flags": "client, release",
         "flagsRaw": 524296,
         "hasDefensiveFlag": false,
-        "index": 1367
+        "index": 1376
     },
     "in_forcebuttonstate": {
         "description": "Forces a button to be a particular state - WHEN PROCESSING USERCOMMANDS",
@@ -6248,7 +6311,7 @@
         "flags": "devonly, client, vconsole_fuzzy",
         "flagsRaw": 8388618,
         "hasDefensiveFlag": false,
-        "index": 1368
+        "index": 1377
     },
     "incrementvar": {
         "description": "Increment specified convar value.",
@@ -6269,7 +6332,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1095
+        "index": 1112
     },
     "instant_replay_goto_tick": {
         "description": "Goto a direct timestamp of the replay",
@@ -6339,56 +6402,56 @@
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1204
+        "index": 1213
     },
     "invnextselect": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1207
+        "index": 1216
     },
     "invprev": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1205
+        "index": 1214
     },
     "invprevselect": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1208
+        "index": 1217
     },
     "iv_debug": {
         "description": "Spew interpolated var info for entity.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1340
+        "index": 1349
     },
     "iv_interp": {
         "description": "Spew interpolated var info for entity.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1341
+        "index": 1350
     },
     "iv_off": {
         "description": "Turn off all interpolation variable spew.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1343
+        "index": 1352
     },
     "iv_on": {
         "description": "Spew both interpolated var debug info and history for entity.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1342
+        "index": 1351
     },
     "jointeam": {
         "description": "Join a team",
@@ -6458,7 +6521,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1138
+        "index": 1155
     },
     "killvector": {
         "description": "Kills a player applying force. Usage: killvector <player> <x value> <y value> <z value>",
@@ -6472,7 +6535,7 @@
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1206
+        "index": 1215
     },
     "listRecentNPCSpeech": {
         "description": "Displays a list of the last 5 lines of speech from NPCs.",
@@ -6514,7 +6577,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1161
+        "index": 1178
     },
     "load_master_item_schema": {
         "description": "Reloads the item master schema.",
@@ -6619,7 +6682,7 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1067
+        "index": 1085
     },
     "maps": {
         "description": "Displays list of maps.",
@@ -6808,21 +6871,21 @@
         "flags": "devonly, client, hidden",
         "flagsRaw": 26,
         "hasDefensiveFlag": true,
-        "index": 1242
+        "index": 1251
     },
     "mc_move": {
         "description": "",
         "flags": "devonly, client, hidden",
         "flagsRaw": 26,
         "hasDefensiveFlag": true,
-        "index": 1240
+        "index": 1249
     },
     "mc_patrol": {
         "description": "",
         "flags": "devonly, client, hidden",
         "flagsRaw": 26,
         "hasDefensiveFlag": true,
-        "index": 1241
+        "index": 1250
     },
     "mem_compact": {
         "description": "Compacts the heap",
@@ -6864,56 +6927,56 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1124
+        "index": 1141
     },
     "midi_release": {
         "description": "Release any connected MIDI device",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1125
+        "index": 1142
     },
     "midi_reset_notes": {
         "description": "Send emergency Note OFF for all active notes on all channels",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1129
+        "index": 1146
     },
     "midi_status": {
         "description": "Dump info about connected MIDI devices",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1126
+        "index": 1143
     },
     "midi_test_off": {
         "description": "Send a test note OFF to the connected MIDI device",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1128
+        "index": 1145
     },
     "midi_test_on": {
         "description": "Send a test note ON to the connected MIDI device",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1127
+        "index": 1144
     },
     "minimap_create": {
         "description": "Does a bunch of work to create a minimap",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1303
+        "index": 1312
     },
     "model_combiner_dumpstats": {
         "description": "Dump the stats for the model combiner manager.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1327
+        "index": 1336
     },
     "model_dump_convert_info": {
         "description": "Print model load-time conversion info",
@@ -6941,14 +7004,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1053
+        "index": 1071
     },
     "multiunit_page_prev": {
         "description": "cycle to the previous multiunit page",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1054
+        "index": 1072
     },
     "multvar": {
         "description": "Multiply specified convar value.",
@@ -7487,14 +7550,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1111
+        "index": 1128
     },
     "overwatch_show_report_popup": {
         "description": "Shows the report popup",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 926
+        "index": 944
     },
     "p2p_listpeers": {
         "description": "List currently known peers.",
@@ -7508,42 +7571,42 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1351
+        "index": 1360
     },
     "panorama_dispatch_event": {
         "description": "Dispatch the event defined by the argument string. No creating panel is specified.",
         "flags": "devonly",
         "flagsRaw": 2,
         "hasDefensiveFlag": true,
-        "index": 1486
+        "index": 1495
     },
     "panorama_dump_symbols": {
         "description": "<ESymbolType> Dump all of the symbols in the Panorama symbol table",
         "flags": "devonly",
         "flagsRaw": 2,
         "hasDefensiveFlag": true,
-        "index": 1484
+        "index": 1493
     },
     "panorama_generate_layout_xsd": {
         "description": "Generate the Layout XML Schema Definition for the current run-time (types are dependent on which game DLL is running).",
         "flags": "devonly",
         "flagsRaw": 2,
         "hasDefensiveFlag": true,
-        "index": 1487
+        "index": 1496
     },
     "panorama_print_cache_status": {
         "description": "Print internal panorama refcounts for every file",
         "flags": "devonly",
         "flagsRaw": 2,
         "hasDefensiveFlag": true,
-        "index": 1485
+        "index": 1494
     },
     "panorama_print_svg_stats": {
         "description": "",
         "flags": "devonly",
         "flagsRaw": 2,
         "hasDefensiveFlag": false,
-        "index": 1489
+        "index": 1498
     },
     "particle_profile": {
         "description": "Profile particle",
@@ -7774,7 +7837,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1096
+        "index": 1113
     },
     "playsound": {
         "description": "playsound <soundname>",
@@ -7788,7 +7851,7 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1355
+        "index": 1364
     },
     "playvol": {
         "description": "Play a sound at a specified volume.",
@@ -7816,7 +7879,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1173
+        "index": 1190
     },
     "print_changed_convars": {
         "description": "Prints all convars that have changed from their default value",
@@ -7837,7 +7900,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1278
+        "index": 1287
     },
     "progress_enable": {
         "description": "",
@@ -7851,7 +7914,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1261
+        "index": 1270
     },
     "prop_debug": {
         "description": "Toggle prop debug mode. If on, props will show colorcoded bounding boxes. Red means ignore all damage. White means respond physically to damage but never break. Green maps health in the range of 100 down to 1.",
@@ -7921,14 +7984,14 @@
         "flags": "linked, devonly",
         "flagsRaw": 3,
         "hasDefensiveFlag": true,
-        "index": 1495
+        "index": 1504
     },
     "r_cleardecals": {
         "description": "Clears all decals",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1509
+        "index": 1518
     },
     "r_dx11_report_live_objects": {
         "description": "Prints out live D3D11 objects (requires -dx11debug)",
@@ -7942,7 +8005,7 @@
         "flags": "linked, devonly",
         "flagsRaw": 3,
         "hasDefensiveFlag": true,
-        "index": 1498
+        "index": 1507
     },
     "r_force_engine_render_frame": {
         "description": "Force a single render of the engine viewport.",
@@ -7963,7 +8026,7 @@
         "flags": "linked, devonly",
         "flagsRaw": 3,
         "hasDefensiveFlag": true,
-        "index": 1496
+        "index": 1505
     },
     "r_print_texture_stats": {
         "description": "Texture stats",
@@ -7977,7 +8040,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1512
+        "index": 1521
     },
     "r_render_coordination_state": {
         "description": "Prints out the current render coordination state.",
@@ -8005,7 +8068,7 @@
         "flags": "linked, devonly",
         "flagsRaw": 3,
         "hasDefensiveFlag": true,
-        "index": 1497
+        "index": 1506
     },
     "r_textures_evict_all": {
         "description": "Evict all resident texture.",
@@ -8075,7 +8138,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1279
+        "index": 1288
     },
     "reload_game_keyvalues": {
         "description": "Reloads hero and ability keyvalues files",
@@ -8096,14 +8159,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 969
+        "index": 987
     },
     "reload_portrait_background_maps": {
         "description": "reloads all portrait background maps",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1215
+        "index": 1224
     },
     "reloadgame": {
         "description": "Reload the most recent saved game.",
@@ -8187,7 +8250,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 905
+        "index": 923
     },
     "reset_gameconvars": {
         "description": "Reset game convars to default values",
@@ -8201,7 +8264,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1062
+        "index": 1080
     },
     "resource_leaks": {
         "description": "resource_leaks <resource_name>: Show resource leaks for the named resource",
@@ -8649,7 +8712,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1097
+        "index": 1114
     },
     "scrubber": {
         "description": "Scrub system off - not a dev build",
@@ -8691,21 +8754,21 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1353
+        "index": 1362
     },
     "servervoice_dump": {
         "description": "servervoice_dump",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1352
+        "index": 1361
     },
     "set_notifications_viewed_date": {
         "description": "Sets most recent time that you viewed notifications",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1063
+        "index": 1081
     },
     "setang": {
         "description": "Snap player eyes to specified pitch yaw <roll:optional> (must have sv_cheats).",
@@ -8775,42 +8838,42 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1190
+        "index": 1199
     },
     "shake_testpunch": {
         "description": "Test a punch-style screen shake.\n",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1191
+        "index": 1200
     },
     "shop_nav_to_search": {
         "description": "with the shop open, makes the search box active",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 979
+        "index": 853
     },
     "shop_nav_to_tab": {
         "description": "switch to a particular shop tab ( 0 - 12 )",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 978
+        "index": 852
     },
     "shop_select_itemrow": {
         "description": "buy ( or set quickbuy with shift held ) a particular displayed row",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 980
+        "index": 854
     },
     "show_sf_shop": {
         "description": "show shop",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1108
+        "index": 1125
     },
     "showconsole": {
         "description": "Show the console.",
@@ -8838,91 +8901,91 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 996
+        "index": 1014
     },
     "slot0": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1201
+        "index": 1210
     },
     "slot1": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1192
+        "index": 1201
     },
     "slot10": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1202
+        "index": 1211
     },
     "slot2": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1193
+        "index": 1202
     },
     "slot3": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1194
+        "index": 1203
     },
     "slot4": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1195
+        "index": 1204
     },
     "slot5": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1196
+        "index": 1205
     },
     "slot6": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1197
+        "index": 1206
     },
     "slot7": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1198
+        "index": 1207
     },
     "slot8": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1199
+        "index": 1208
     },
     "slot9": {
         "description": "",
         "flags": "client, server_can_execute",
         "flagsRaw": 16777224,
         "hasDefensiveFlag": false,
-        "index": 1200
+        "index": 1209
     },
     "snapto": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1379
+        "index": 1388
     },
     "snd_arrangement_start": {
         "description": "Starts the specified arrangement.",
@@ -9195,28 +9258,28 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1460
+        "index": 1469
     },
     "snd_sos_cl_soundevent_start": {
         "description": "Test",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1458
+        "index": 1467
     },
     "snd_sos_cl_soundevent_stop_last": {
         "description": "Test",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1459
+        "index": 1468
     },
     "snd_sos_cl_soundevent_unpause_last": {
         "description": "Test",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1461
+        "index": 1470
     },
     "snd_sos_compare_operator_stacks": {
         "description": "Compares 2 operator stacks and spews any errors",
@@ -9552,7 +9615,7 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1328
+        "index": 1337
     },
     "soundscape_flush": {
         "description": "Flushes the server & client side soundscapes",
@@ -9573,105 +9636,105 @@
         "flags": "game, cheat",
         "flagsRaw": 16388,
         "hasDefensiveFlag": false,
-        "index": 1500
+        "index": 1509
     },
     "spawn_group_list": {
         "description": "List all spawn groups",
         "flags": "game, cheat",
         "flagsRaw": 16388,
         "hasDefensiveFlag": false,
-        "index": 1503
+        "index": 1512
     },
     "spawn_group_load": {
         "description": "Load named spawn group.",
         "flags": "game, cheat",
         "flagsRaw": 16388,
         "hasDefensiveFlag": false,
-        "index": 1501
+        "index": 1510
     },
     "spawn_group_unload": {
         "description": "Unload named spawn group.",
         "flags": "game, cheat",
         "flagsRaw": 16388,
         "hasDefensiveFlag": false,
-        "index": 1502
+        "index": 1511
     },
     "spec_goto": {
         "description": "Move the spectator camera to a specific location. `spec_goto x y z pitch yaw`",
         "flags": "client, clientcmd_can_execute",
         "flagsRaw": 268435464,
         "hasDefensiveFlag": false,
-        "index": 1334
+        "index": 1343
     },
     "spec_mode": {
         "description": "Set spectator mode",
         "flags": "client, clientcmd_can_execute",
         "flagsRaw": 268435464,
         "hasDefensiveFlag": false,
-        "index": 1332
+        "index": 1341
     },
     "spec_next": {
         "description": "Spectate next player",
         "flags": "client, clientcmd_can_execute",
         "flagsRaw": 268435464,
         "hasDefensiveFlag": false,
-        "index": 1330
+        "index": 1339
     },
     "spec_player": {
         "description": "Spectate a player by name or slot",
         "flags": "client, clientcmd_can_execute",
         "flagsRaw": 268435464,
         "hasDefensiveFlag": false,
-        "index": 1333
+        "index": 1342
     },
     "spec_pos": {
         "description": "dump position and angles to the console",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1187
+        "index": 1196
     },
     "spec_prev": {
         "description": "Spectate previous player",
         "flags": "client, clientcmd_can_execute",
         "flagsRaw": 268435464,
         "hasDefensiveFlag": false,
-        "index": 1331
+        "index": 1340
     },
     "spectator_lobby_create": {
         "description": "Create a dummy spectator lobby",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 895
+        "index": 913
     },
     "spectator_lobby_join": {
         "description": "Join specified spectator lobby",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 898
+        "index": 916
     },
     "spectator_lobby_leave": {
         "description": "Leave current spectator lobby",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 899
+        "index": 917
     },
     "spectator_lobby_list": {
         "description": "Request list of spectator lobbies from GC",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 897
+        "index": 915
     },
     "spectator_lobby_set_details": {
         "description": "Sets details on current spectator lobby",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 896
+        "index": 914
     },
     "spew_fonts": {
         "description": "Spew information about font manager fonts",
@@ -9706,7 +9769,7 @@
         "flags": "devonly, client, cheat",
         "flagsRaw": 16394,
         "hasDefensiveFlag": false,
-        "index": 1366
+        "index": 1375
     },
     "startdemos": {
         "description": "Play demos in demo sequence.",
@@ -9727,28 +9790,28 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 867
+        "index": 876
     },
     "stat_dropdown": {
         "description": "Select a category in the spectator stats dropdown",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 982
+        "index": 856
     },
     "stat_dropdown_cycle": {
         "description": "Cycle through the stat dropdown categories in a specified direction (-1 = back, 1 = forward)",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 984
+        "index": 858
     },
     "stat_dropdown_sort": {
         "description": "Cycle through the stat dropdown sort methods",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 983
+        "index": 857
     },
     "stats": {
         "description": "Prints server performance variables",
@@ -9818,7 +9881,7 @@
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1356
+        "index": 1365
     },
     "subclass_change": {
         "description": "Changes the subclass of the given entity.\n\tArguments:   \t<new_subclass> {entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}",
@@ -9993,7 +10056,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 973
+        "index": 991
     },
     "test_compendium_endgame_stats": {
         "description": "test_compendium_endgame_stats",
@@ -10007,7 +10070,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1020
+        "index": 1038
     },
     "test_compendium_stats": {
         "description": "test_compendium_stats",
@@ -10035,14 +10098,14 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1056
+        "index": 1074
     },
     "test_hud_skin": {
         "description": "Test panorama HUD skin",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1057
+        "index": 1075
     },
     "test_list_entities": {
         "description": "test-list entities",
@@ -10056,28 +10119,28 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 958
+        "index": 976
     },
     "test_seasonpass_cm_game": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1036
+        "index": 1054
     },
     "test_seasonpass_cm_game_event": {
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1037
+        "index": 1055
     },
     "test_trophy_achieved": {
         "description": "Show trophy upgraded dialog",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 1038
+        "index": 1056
     },
     "test_voice_containers": {
         "description": "Quick example for how we'd derive traits from voice containers.",
@@ -10091,21 +10154,21 @@
         "flags": "client, cheat, execute_per_tick",
         "flagsRaw": 536887304,
         "hasDefensiveFlag": false,
-        "index": 1370
+        "index": 1379
     },
     "thirdperson_mayamode": {
         "description": "Switch to thirdperson Maya-like camera controls.",
         "flags": "client, cheat",
         "flagsRaw": 16392,
         "hasDefensiveFlag": false,
-        "index": 1372
+        "index": 1381
     },
     "thirdpersonshoulder": {
         "description": "Switch to thirdperson-shoulder camera.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1373
+        "index": 1382
     },
     "timedemo": {
         "description": "Play a demo and report performance info.",
@@ -10140,21 +10203,21 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1110
+        "index": 1127
     },
     "top_bar_message": {
         "description": "test top bar status message. usage: top_bar_message [\"message here\"] [scary: 0/1] ",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1174
+        "index": 1191
     },
     "treasure_peek_details": {
         "description": "Displays details about the peek status of the currently open treasure",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1041
+        "index": 1059
     },
     "tutorial_cleanup_post": {
         "description": "",
@@ -10301,42 +10364,42 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 875
+        "index": 884
     },
     "unsubscribe_custom_game": {
         "description": "Stops subscribing to a specific custom game. It will be uninstalled when you exit Dota 2.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 874
+        "index": 883
     },
     "update_lane_creep_gold_bounty": {
         "description": "Update gold bounty for lane creeps.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 972
+        "index": 990
     },
     "update_neutral_creep_gold_bounty": {
         "description": "Update gold bounty for neutral creeps.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": false,
-        "index": 971
+        "index": 989
     },
     "url_execute": {
         "description": "Executes url-based commands, used for incoming commands from url-based launches when the game's already running.",
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1323
+        "index": 1332
     },
     "use_item_client": {
         "description": "Use the item in the indicated slot. <hero name> <slot name>",
         "flags": "client, norecord, clientcmd_can_execute",
         "flagsRaw": 268566536,
         "hasDefensiveFlag": false,
-        "index": 876
+        "index": 885
     },
     "users": {
         "description": "Show user info for players on server.",
@@ -10560,7 +10623,7 @@
         "flags": "devonly, client",
         "flagsRaw": 10,
         "hasDefensiveFlag": true,
-        "index": 1148
+        "index": 1165
     },
     "weapon_switch": {
         "description": "Use a particular weapon\t\nArguments: <weapon_name>",
