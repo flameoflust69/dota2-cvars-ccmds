@@ -2,7 +2,8 @@
 
 Select a version below to view the changelog history:
 
-* [2024-05-06, Version 6051](#2024-05-06-version-6051-current) **Current**
+* [2024-05-07, Version 6053](#2024-05-07-version-6053-current) **Current**
+* [2024-05-06, Version 6051](#2024-05-06-version-6051)
 * [2024-04-18, Version 6027](#2024-04-18-version-6027)
 * [2024-04-03, Version 6023](#2024-04-03-version-6023)
 * [2024-03-21, Version 6017](#2024-03-21-version-6017)
@@ -12,7 +13,25 @@ Select a version below to view the changelog history:
 
 ***
 
-## 2024-05-06, Version 6051 (Current)
+## 2024-05-07, Version 6053 (Current)
+
+> [!NOTE]
+> Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/52e0cac>
+
+### ConVar
+* Add `temp_dota_legacy_keys_in_use`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "devonly, client, hidden",
+    "flagsRaw": 26,
+    "hasDefensiveFlag": true
+}
+```
+
+## 2024-05-06, Version 6051
 
 > [!NOTE]
 > Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/8db15e6>  
