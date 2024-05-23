@@ -2,7 +2,8 @@
 
 Select a version below to view the changelog history:
 
-* [2024-05-07, Version 6053](#2024-05-07-version-6053-current) **Current**
+* [2024-05-22, Version 6063](#2024-05-22-version-6063-current) **Current**
+* [2024-05-07, Version 6053](#2024-05-07-version-6053)
 * [2024-05-06, Version 6051](#2024-05-06-version-6051)
 * [2024-04-18, Version 6027](#2024-04-18-version-6027)
 * [2024-04-03, Version 6023](#2024-04-03-version-6023)
@@ -13,7 +14,590 @@ Select a version below to view the changelog history:
 
 ***
 
-## 2024-05-07, Version 6053 (Current)
+## 2024-05-22, Version 6063 (Current)
+
+> [!NOTE]
+> Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/52e0cac>
+
+### ConVar
+* Add `always_animate_clientside_worldgroups`
+```json
+{
+    "data_type": "bool",
+    "default_value": "true",
+    "description": "Experimental fix for world panel animation issues",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `animgraph_slope_drop_use_capsule`
+```json
+{
+    "data_type": "bool",
+    "default_value": "true",
+    "description": "",
+    "flags": "devonly, game, client, replicated",
+    "flagsRaw": 8206,
+    "hasDefensiveFlag": true
+}
+```
+* Add `animgraph_slope_drop_use_capsule_smoothing`
+```json
+{
+    "data_type": "bool",
+    "default_value": "true",
+    "description": "",
+    "flags": "devonly, game, client, replicated",
+    "flagsRaw": 8206,
+    "hasDefensiveFlag": true
+}
+```
+* Add `animgraph_slope_drop_use_capsule_soft_cliffs`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "devonly, game, client, replicated",
+    "flagsRaw": 8206,
+    "hasDefensiveFlag": true
+}
+```
+* Add `cl_skip_hierarchy_update_for_unchanged_entities`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "Skip updating hierarchy information in PostDataUpdate for entities that have not changed",
+    "flags": "devonly, game, client, replicated",
+    "flagsRaw": 8206,
+    "hasDefensiveFlag": false
+}
+```
+* Add `cloth_filter_transform_stateless`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "Enable the new, stateless version of FilterTransform",
+    "flags": "devonly",
+    "flagsRaw": 2,
+    "hasDefensiveFlag": true
+}
+```
+* Add `dota_alt_right_range_hint`
+```json
+{
+    "data_type": "bool",
+    "default_value": "true",
+    "description": "",
+    "flags": "client, archive, per_user",
+    "flagsRaw": 32904,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_fishing_score_multiplier`
+```json
+{
+    "data_type": "float",
+    "default_value": "1",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_fishing_spear_hit_radius`
+```json
+{
+    "data_type": "float",
+    "default_value": "100",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_fishing_spear_throw_time`
+```json
+{
+    "data_type": "float",
+    "default_value": "0.7",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_flappy_debug_draw`
+```json
+{
+    "data_type": "int32",
+    "default_value": "0",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_flappy_debug_fast_movement`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_flappy_debug_no_death`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_intro_state_act_2`
+```json
+{
+    "data_type": "int32",
+    "default_value": "0",
+    "description": "",
+    "flags": "client, archive",
+    "flagsRaw": 136,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_intro_state_act_3`
+```json
+{
+    "data_type": "int32",
+    "default_value": "0",
+    "description": "",
+    "flags": "client, archive",
+    "flagsRaw": 136,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_intro_state_act_4`
+```json
+{
+    "data_type": "int32",
+    "default_value": "0",
+    "description": "",
+    "flags": "client, archive",
+    "flagsRaw": 136,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_map_disable_camera_events`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "devonly, client, archive",
+    "flagsRaw": 138,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_most_recent_active_season_id`
+```json
+{
+    "data_type": "int32",
+    "default_value": "0",
+    "description": "",
+    "flags": "client, archive",
+    "flagsRaw": 136,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_pit_fighter_disable_checks`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_reset_map_also_resets_event`
+```json
+{
+    "data_type": "bool",
+    "default_value": "true",
+    "description": "",
+    "flags": "devonly, client, archive",
+    "flagsRaw": 138,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_suppress_popups_when_completing_nodes`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "devonly, client, archive",
+    "flagsRaw": 138,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_enigma_gravity_max`
+```json
+{
+    "data_type": "float",
+    "default_value": "90",
+    "description": "",
+    "flags": "devonly, game, client, replicated",
+    "flagsRaw": 8206,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_enigma_gravity_min`
+```json
+{
+    "data_type": "float",
+    "default_value": "60",
+    "description": "",
+    "flags": "devonly, game, client, replicated",
+    "flagsRaw": 8206,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_enigma_gravity_scale_divisor`
+```json
+{
+    "data_type": "float",
+    "default_value": "1",
+    "description": "",
+    "flags": "devonly, game, client, replicated",
+    "flagsRaw": 8206,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_health_bar_hovered_always_top`
+```json
+{
+    "data_type": "bool",
+    "default_value": "true",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": true
+}
+```
+* Add `dota_hero_demo_default_enemy_variant`
+```json
+{
+    "data_type": "int32",
+    "default_value": "0",
+    "description": "",
+    "flags": "client, archive",
+    "flagsRaw": 1073741960,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_hero_force_respawn_time`
+```json
+{
+    "data_type": "float",
+    "default_value": "-1",
+    "description": "",
+    "flags": "devonly, game",
+    "flagsRaw": 6,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_show_chronocube_debug`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "devonly, game",
+    "flagsRaw": 6,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_show_facet_help`
+```json
+{
+    "data_type": "bool",
+    "default_value": "true",
+    "description": "",
+    "flags": "client, archive",
+    "flagsRaw": 136,
+    "hasDefensiveFlag": false
+}
+```
+* Add `engine_frametime_amnesty_debug`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "Enable logging about events that disable frame time warnings",
+    "flags": "devonly",
+    "flagsRaw": 2,
+    "hasDefensiveFlag": true
+}
+```
+* Add `hairsim_force_fixed_timestep`
+```json
+{
+    "data_type": "bool",
+    "default_value": "true",
+    "description": "",
+    "flags": "devonly",
+    "flagsRaw": 2,
+    "hasDefensiveFlag": true
+}
+```
+* Add `lb_csm_override_bulb_radius`
+```json
+{
+    "data_type": "float",
+    "default_value": "-1",
+    "description": "Override bulb radius for CSM",
+    "flags": "devonly",
+    "flagsRaw": 2,
+    "hasDefensiveFlag": true
+}
+```
+* Add `lb_debug_shadowtile_atlas`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "SceneSystem/LightBinner/Debug ShadowTile Atlas",
+    "flags": "devonly, cheat, menubar_item",
+    "flagsRaw": 1064962,
+    "hasDefensiveFlag": false
+}
+```
+* Add `phys_threaded_kinematic_bone_update`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "devonly, game, client, replicated",
+    "flagsRaw": 8206,
+    "hasDefensiveFlag": true
+}
+```
+* Add `r_physics_particle_op_spawn_scale`
+```json
+{
+    "data_type": "float",
+    "default_value": "1",
+    "description": "",
+    "flags": "devonly",
+    "flagsRaw": 2,
+    "hasDefensiveFlag": false
+}
+```
+* Add `ragdoll_move_entity`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "game, client, replicated, cheat",
+    "flagsRaw": 24588,
+    "hasDefensiveFlag": false
+}
+```
+* Add `ragdoll_update_from_weights`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "game, client, replicated, cheat",
+    "flagsRaw": 24588,
+    "hasDefensiveFlag": false
+}
+```
+* Add `rtx_dynamic_blas`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "Allow dynamic BLAS creation for geometry going through the compute shader skinning path.",
+    "flags": "devonly",
+    "flagsRaw": 2,
+    "hasDefensiveFlag": true
+}
+```
+* Add `snd_group_priority_debug`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "replicated, cheat",
+    "flagsRaw": 24576,
+    "hasDefensiveFlag": false
+}
+```
+* Add `snd_group_priority_max_tolerance`
+```json
+{
+    "data_type": "float",
+    "default_value": "0.05",
+    "description": "",
+    "flags": "replicated, cheat",
+    "flagsRaw": 24576,
+    "hasDefensiveFlag": false
+}
+```
+* Add `sv_early_network_message_processing`
+```json
+{
+    "data_type": "bool",
+    "default_value": "true",
+    "description": "Processes network messages on the server before entities think, instead of at the end of the tick.",
+    "flags": "devonly, game",
+    "flagsRaw": 6,
+    "hasDefensiveFlag": false
+}
+```
+* Add `sv_vac_webapi_auth_key`
+```json
+{
+    "data_type": "string",
+    "default_value": "",
+    "description": "Key for when posting to vac related webapis.",
+    "flags": "game, release",
+    "flagsRaw": 524292,
+    "hasDefensiveFlag": false
+}
+```
+
+* Update `lb_debug_shadow_atlas`, `mat_show_distance_field`, `sv_long_frame_ms` description
+
+* Rename `engine_enable_frametime_warnings` to `engine_frametime_warnings_enable`
+
+* Update `cl_parallel_readpacketentities_threshold`
+
+| Field | Old | New |
+| :--- | :--- | :--- |
+| default_value | 8 | 2 |
+
+* Update `dota_local_map_strategy_time`
+
+| Field | Old | New |
+| :--- | :--- | :--- |
+| default_value | false | true |
+
+* Remove
+  * `cl_clock_recvmargin_enable`
+  * `cl_parallel_readpacketentities_type`
+  * `cl_profilereadpacketentities`
+  * `cl_tickpacket_recvmargin_enable`
+  * `cq_force_percent`
+  * `dota_fake_event_wins`
+  * `dota_fake_event_wins_claimed`
+  * `dota_profile_card_no_compendium`
+  * `dota_profile_card_no_event`
+  * `dota_puck_waning_rift_doubletap_distance`
+  * `nav_search_lattice_initial_scale`
+  * `nav_search_lattice_progressive_scale`
+  * `pregame_debug_base_event_points`
+  * `pregame_debug_event_points`
+  * `r_fallback_texture_orange`
+  * `volume_fog_disable`
+
+### ConCommand
+* Add `cl_dump_response_symbols`
+```json
+{
+    "description": "print all response symbols to the console",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": true
+}
+```
+* Add `dota_crownfall_encounter_flappy_skywrath`
+```json
+{
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_crownfall_overworld_map_test_comet`
+```json
+{
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dump_response_symbols`
+```json
+{
+    "description": "print all response symbols to the console",
+    "flags": "devonly, game",
+    "flagsRaw": 6,
+    "hasDefensiveFlag": true
+}
+```
+* Add `engine_frametime_print_report`
+```json
+{
+    "description": "Print a performance report from the current data in the vprof 'lite' profiler",
+    "flags": "devonly",
+    "flagsRaw": 2,
+    "hasDefensiveFlag": true
+}
+```
+* Add `rangefinder2d`
+```json
+{
+    "description": "Measures distance along a ray, only measuring along XY plane.",
+    "flags": "game, cheat",
+    "flagsRaw": 16388,
+    "hasDefensiveFlag": false
+}
+```
+* Add `test_voice_container_nesting`
+```json
+{
+    "description": "Test nesting voice containers.",
+    "flags": "linked, devonly",
+    "flagsRaw": 3,
+    "hasDefensiveFlag": true
+}
+```
+* Add `voice_containers_get_instance_args`
+```json
+{
+    "description": "Args: [Voice Container Path]",
+    "flags": "linked, devonly",
+    "flagsRaw": 3,
+    "hasDefensiveFlag": true
+}
+```
+
+* Update `dota_overworld_trade_tokens` description
+
+* Remove
+  * `generate_voice_containers`
+  * `rpestats`
+
+## 2024-05-07, Version 6053
 
 > [!NOTE]
 > Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/52e0cac>
