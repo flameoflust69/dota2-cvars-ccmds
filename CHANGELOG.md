@@ -17,7 +17,8 @@ Select a version below to view the changelog history:
 ## 2024-05-22, Version 6063 (Current)
 
 > [!NOTE]
-> Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/52e0cac>
+> Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/83828b4>  
+> Blog: https://www.dota2.com/newsentry/5991554339562872856
 
 ### ConVar
 * Add `always_animate_clientside_worldgroups`
