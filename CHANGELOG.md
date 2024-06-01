@@ -2,8 +2,8 @@
 
 Select a version below to view the changelog history:
 
-* [2024-05-31, Version 6082](#2024-05-22-version-6082-current) **Current**
-* [2024-05-28, Version 6077](#2024-05-22-version-6077)
+* [2024-05-31, Version 6082](#2024-05-31-version-6082-current) **Current**
+* [2024-05-28, Version 6077](#2024-05-28-version-6077)
 * [2024-05-22, Version 6063](#2024-05-22-version-6063)
 * [2024-05-07, Version 6053](#2024-05-07-version-6053)
 * [2024-05-06, Version 6051](#2024-05-06-version-6051)
@@ -16,7 +16,7 @@ Select a version below to view the changelog history:
 
 ***
 
-## 2024-05-28, Version 6082 (Current)
+## 2024-05-31, Version 6082 (Current)
 
 > [!NOTE]
 > Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/6081fa1>
