@@ -2,7 +2,9 @@
 
 Select a version below to view the changelog history:
 
-* [2024-05-22, Version 6063](#2024-05-22-version-6063-current) **Current**
+* [2024-05-31, Version 6082](#2024-05-22-version-6082-current) **Current**
+* [2024-05-28, Version 6077](#2024-05-22-version-6077)
+* [2024-05-22, Version 6063](#2024-05-22-version-6063)
 * [2024-05-07, Version 6053](#2024-05-07-version-6053)
 * [2024-05-06, Version 6051](#2024-05-06-version-6051)
 * [2024-04-18, Version 6027](#2024-04-18-version-6027)
@@ -14,7 +16,41 @@ Select a version below to view the changelog history:
 
 ***
 
-## 2024-05-22, Version 6063 (Current)
+## 2024-05-28, Version 6082 (Current)
+
+> [!NOTE]
+> Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/6081fa1>
+
+### ConCommand
+* Add `dota_ability_draft_dump_heroes`
+```json
+{
+    "description": "wtf",
+    "flags": "devonly, game",
+    "flagsRaw": 6,
+    "hasDefensiveFlag": true
+}
+```
+
+## 2024-05-28, Version 6077
+
+> [!NOTE]
+> Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/6081fa1>
+
+### ConVar
+* Add `dota_crownfall_fishing_cheat_big_fish_only`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+
+## 2024-05-22, Version 6063
 
 > [!NOTE]
 > Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/83828b4>  
