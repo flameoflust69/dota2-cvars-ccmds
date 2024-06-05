@@ -2,7 +2,8 @@
 
 Select a version below to view the changelog history:
 
-* [2024-05-31, Version 6082](#2024-05-31-version-6082-current) **Current**
+* [2024-06-04, Version 6084](#2024-06-04-version-6084-current) **Current**
+* [2024-05-31, Version 6082](#2024-05-31-version-6082)
 * [2024-05-28, Version 6077](#2024-05-28-version-6077)
 * [2024-05-22, Version 6063](#2024-05-22-version-6063)
 * [2024-05-07, Version 6053](#2024-05-07-version-6053)
@@ -16,7 +17,19 @@ Select a version below to view the changelog history:
 
 ***
 
-## 2024-05-31, Version 6082 (Current)
+## 2024-06-04, Version 6084 (Current)
+
+> [!NOTE]
+> Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/668fcdc>
+
+### ConVar
+* Update `dota_crownfall_fishing_spear_hit_radius`
+
+| Field | Old | New |
+| :--- | :--- | :--- |
+| default_value | 100 | 110 |
+
+## 2024-05-31, Version 6082
 
 > [!NOTE]
 > Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/6081fa1>
