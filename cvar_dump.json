@@ -9424,7 +9424,7 @@
     },
     "dota_crownfall_fishing_spear_hit_radius": {
         "data_type": "float",
-        "default_value": "100",
+        "default_value": "110",
         "description": "",
         "flags": "devonly, client",
         "flagsRaw": 10,
