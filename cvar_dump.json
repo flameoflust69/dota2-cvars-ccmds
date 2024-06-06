@@ -5507,9 +5507,9 @@
         "hasDefensiveFlag": false,
         "index": 1644
     },
-    "dota_ability_schema_force_public_behavior": {
-        "data_type": "int32",
-        "default_value": "0",
+    "dota_ability_schema_require_locked_ids": {
+        "data_type": "bool",
+        "default_value": "false",
         "description": "",
         "flags": "devonly, game, client, replicated",
         "flagsRaw": 8206,
