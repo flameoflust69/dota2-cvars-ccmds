@@ -2,7 +2,8 @@
 
 Select a version below to view the changelog history:
 
-* [2024-06-04, Version 6084](#2024-06-04-version-6084-current) **Current**
+* [2024-06-05, Version 6088](#2024-06-05-version-6088-current) **Current**
+* [2024-06-04, Version 6084](#2024-06-04-version-6084)
 * [2024-05-31, Version 6082](#2024-05-31-version-6082)
 * [2024-05-28, Version 6077](#2024-05-28-version-6077)
 * [2024-05-22, Version 6063](#2024-05-22-version-6063)
@@ -17,7 +18,21 @@ Select a version below to view the changelog history:
 
 ***
 
-## 2024-06-04, Version 6084 (Current)
+## 2024-06-05, Version 6088 (Current)
+
+> [!NOTE]
+> Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/af24424>  
+> Blog: https://steamcommunity.com/games/dota2/announcements/detail/4176605502420155696
+
+### ConVar
+* Rename `dota_ability_schema_force_public_behavior` to `dota_ability_schema_require_locked_ids`
+
+| Field | Old | New |
+| :--- | :--- | :--- |
+| data_type | int32 | bool |
+| default_value | 0 | false |
+
+## 2024-06-04, Version 6084
 
 > [!NOTE]
 > Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/668fcdc>
