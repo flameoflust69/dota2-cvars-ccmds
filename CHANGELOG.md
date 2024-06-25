@@ -2,7 +2,8 @@
 
 Select a version below to view the changelog history:
 
-* [2024-06-05, Version 6088](#2024-06-05-version-6088-current) **Current**
+* [2024-06-24, Version 6102](#2024-06-24-version-6102-current) **Current**
+* [2024-06-05, Version 6088](#2024-06-05-version-6088)
 * [2024-06-04, Version 6084](#2024-06-04-version-6084)
 * [2024-05-31, Version 6082](#2024-05-31-version-6082)
 * [2024-05-28, Version 6077](#2024-05-28-version-6077)
@@ -18,7 +19,37 @@ Select a version below to view the changelog history:
 
 ***
 
-## 2024-06-05, Version 6088 (Current)
+## 2024-06-24, Version 6102 (Current)
+
+> [!NOTE]
+> Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/f3a181a>  
+> Blog: https://steamcommunity.com/games/dota2/announcements/detail/4175480871061328923
+
+### ConVar
+* Add `dota_steamvideo_show_dev_messages`
+```json
+{
+    "data_type": "bool",
+    "default_value": "false",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+* Add `dota_steamvideo_tower_distance_threshold`
+```json
+{
+    "data_type": "float",
+    "default_value": "1500",
+    "description": "",
+    "flags": "devonly, client",
+    "flagsRaw": 10,
+    "hasDefensiveFlag": false
+}
+```
+
+## 2024-06-05, Version 6088
 
 > [!NOTE]
 > Commit: <https://github.com/flameoflust69/dota2-cvars-ccmds/commit/af24424>  
