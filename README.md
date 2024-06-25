@@ -1,9 +1,9 @@
 # Dota2 ConVar and ConCommand dump
 
 ```
-Build version: 6088
-Build info: Jun 05 2024 - 18:41:13PST
-Total ConVar: 4622
+Build version: 6102
+Build info: Jun 24 2024 - 17:31:00PST
+Total ConVar: 4624
 Total ConCommand: 1532
 ```
 
