@@ -1,10 +1,10 @@
 # Dota2 ConVar and ConCommand dump
 
 ```
-Build version: 6102
-Build info: Jun 24 2024 - 17:31:00PST
-Total ConVar: 4624
-Total ConCommand: 1532
+Build version: 6118
+Build info: Jul 09 2024 - 14:46:51PST
+Total ConVar: 4758
+Total ConCommand: 1547
 ```
 
 ConVar/ConCommand dump only comes from `ICvar` there are some hidden commands, such as `dota_captain_ban_hero npc_dota_hero_%s` used for banning heroes or any other commands from workshop tools.
